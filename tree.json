@@ -5070,6 +5070,9 @@
         },
         {
           "ref": "I724*d60c4b4b-ac87-44c0-b12d-939322cd667f"
+        },
+        {
+          "ref": "I725*e49da115-2893-47dd-b39e-e7747cac8d88"
         }
       ],
       "husbandRefs": [
@@ -20158,6 +20161,25 @@
       "names": [
         {
           "value": "Evalyn //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F295*d52bbab3-2140-4316-8118-a022e3497ad4"
+        }
+      ],
+      "id": "I725*e49da115-2893-47dd-b39e-e7747cac8d88",
+      "names": [
+        {
+          "value": "Freddy Hamonangan //"
         }
       ],
       "eventsFacts": [
