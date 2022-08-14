@@ -5217,6 +5217,9 @@
         },
         {
           "ref": "I750*f57aa050-3d62-4a7a-8a3d-1ccbea4da3b5"
+        },
+        {
+          "ref": "I751*642ae016-8dc1-4807-8ac9-3187bfbf842b"
         }
       ],
       "husbandRefs": [
@@ -20897,6 +20900,25 @@
       "names": [
         {
           "value": "Rsja Borbor //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F304*33f93c54-8b8e-49bf-8dd5-79751a8ed000"
+        }
+      ],
+      "id": "I751*642ae016-8dc1-4807-8ac9-3187bfbf842b",
+      "names": [
+        {
+          "value": "Raja Guleman //"
         }
       ],
       "eventsFacts": [
