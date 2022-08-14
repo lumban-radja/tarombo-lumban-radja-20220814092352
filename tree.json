@@ -4950,6 +4950,9 @@
         },
         {
           "ref": "I704*10b25f93-a241-4ce3-b2e8-d62af7c2befb"
+        },
+        {
+          "ref": "I705*2164d0cf-d0d1-4c59-b82b-fa2ed12a7e7e"
         }
       ],
       "husbandRefs": [
@@ -19628,6 +19631,25 @@
       "names": [
         {
           "value": "R. Jona //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F289*8b2bd12e-f965-417d-8eeb-458a0de40762"
+        }
+      ],
+      "id": "I705*2164d0cf-d0d1-4c59-b82b-fa2ed12a7e7e",
+      "names": [
+        {
+          "value": "R. Daniel //"
         }
       ],
       "eventsFacts": [
