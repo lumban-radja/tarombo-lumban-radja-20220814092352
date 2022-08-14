@@ -5210,6 +5210,9 @@
         },
         {
           "ref": "I737*85521d56-33eb-436d-95ab-51e02ff8239c"
+        },
+        {
+          "ref": "I755*942b20da-7483-4ba3-aeab-a1181e324dfd"
         }
       ],
       "husbandRefs": [
@@ -20985,6 +20988,25 @@
       "names": [
         {
           "value": "Pandiangan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F303*927a5e44-da79-416c-aec1-6da7948d5282"
+        }
+      ],
+      "id": "I755*942b20da-7483-4ba3-aeab-a1181e324dfd",
+      "names": [
+        {
+          "value": "Simatupang //"
         }
       ],
       "eventsFacts": [
