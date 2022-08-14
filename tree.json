@@ -5235,6 +5235,19 @@
         }
       ],
       "id": "F305*80c0aaae-7de9-4122-a16d-d54c1c5b2a97"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I743*82a67de8-28a8-4863-8ade-ea6ae9e9b44d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I744*b04af9b0-f690-420d-9a74-4724763eaf99"
+        }
+      ],
+      "id": "F306*acca73a8-1143-4083-9815-8c3aed911349"
     }
   ],
   "head": {
@@ -20719,6 +20732,11 @@
       ]
     },
     {
+      "famc": [
+        {
+          "ref": "F306*acca73a8-1143-4083-9815-8c3aed911349"
+        }
+      ],
       "fams": [
         {
           "ref": "F305*80c0aaae-7de9-4122-a16d-d54c1c5b2a97"
@@ -20728,6 +20746,25 @@
       "names": [
         {
           "value": "GURU TATEA BULAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F306*acca73a8-1143-4083-9815-8c3aed911349"
+        }
+      ],
+      "id": "I744*b04af9b0-f690-420d-9a74-4724763eaf99",
+      "names": [
+        {
+          "value": "SIRAJA BATAK //"
         }
       ],
       "eventsFacts": [
