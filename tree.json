@@ -4938,6 +4938,9 @@
       "childRefs": [
         {
           "ref": "I700*9d8664a0-17a3-455f-b947-62745b66882b"
+        },
+        {
+          "ref": "I701*f07d95d3-dbf8-4e1f-99de-2b4ef16fdbe6"
         }
       ],
       "husbandRefs": [
@@ -19540,6 +19543,25 @@
       "names": [
         {
           "value": "R. Juda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F289*8b2bd12e-f965-417d-8eeb-458a0de40762"
+        }
+      ],
+      "id": "I701*f07d95d3-dbf8-4e1f-99de-2b4ef16fdbe6",
+      "names": [
+        {
+          "value": "R. Samuel //"
         }
       ],
       "eventsFacts": [
