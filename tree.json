@@ -4966,6 +4966,9 @@
       "childRefs": [
         {
           "ref": "I706*71fac552-8805-4b2f-8d85-3407dd6ee235"
+        },
+        {
+          "ref": "I707*3252b759-05a4-4bee-96b7-597b0115f06e"
         }
       ],
       "husbandRefs": [
@@ -19687,6 +19690,25 @@
       "names": [
         {
           "value": "Zakheus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F290*3bad37f3-ee98-4ccd-8cc0-05257a55d6d3"
+        }
+      ],
+      "id": "I707*3252b759-05a4-4bee-96b7-597b0115f06e",
+      "names": [
+        {
+          "value": "Elias //"
         }
       ],
       "eventsFacts": [
