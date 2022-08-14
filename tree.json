@@ -4975,6 +4975,9 @@
         },
         {
           "ref": "I709*8732a161-cf21-4caa-b9aa-f31cc33a3c5f"
+        },
+        {
+          "ref": "I710*30017c65-8020-4e41-8324-def96527d034"
         }
       ],
       "husbandRefs": [
@@ -19753,6 +19756,25 @@
       "names": [
         {
           "value": "Zalusman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F290*3bad37f3-ee98-4ccd-8cc0-05257a55d6d3"
+        }
+      ],
+      "id": "I710*30017c65-8020-4e41-8324-def96527d034",
+      "names": [
+        {
+          "value": "Saladin //"
         }
       ],
       "eventsFacts": [
