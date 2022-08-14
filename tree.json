@@ -5142,6 +5142,19 @@
         }
       ],
       "id": "F299*23323ea1-1eff-4fd2-8d9d-1b53fb87bdef"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I732*bd53b9e1-bfe9-409e-b921-831f3513648e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I733*7e1449ef-7776-4eb3-a2b4-321eee30a51c"
+        }
+      ],
+      "id": "F300*cafb3ea8-6a62-4fef-90e3-076872e5b61c"
     }
   ],
   "head": {
@@ -20387,6 +20400,11 @@
       ]
     },
     {
+      "famc": [
+        {
+          "ref": "F300*cafb3ea8-6a62-4fef-90e3-076872e5b61c"
+        }
+      ],
       "fams": [
         {
           "ref": "F299*23323ea1-1eff-4fd2-8d9d-1b53fb87bdef"
@@ -20396,6 +20414,25 @@
       "names": [
         {
           "value": "TUNGKUP RAJA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F300*cafb3ea8-6a62-4fef-90e3-076872e5b61c"
+        }
+      ],
+      "id": "I733*7e1449ef-7776-4eb3-a2b4-321eee30a51c",
+      "names": [
+        {
+          "value": "RAJA SIHOMBAR //"
         }
       ],
       "eventsFacts": [
