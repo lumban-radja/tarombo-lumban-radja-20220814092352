@@ -5222,6 +5222,19 @@
         }
       ],
       "id": "F304*33f93c54-8b8e-49bf-8dd5-79751a8ed000"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I742*b19cb01f-50e1-48f3-9a73-a23377eec45a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I743*82a67de8-28a8-4863-8ade-ea6ae9e9b44d"
+        }
+      ],
+      "id": "F305*80c0aaae-7de9-4122-a16d-d54c1c5b2a97"
     }
   ],
   "head": {
@@ -20682,6 +20695,11 @@
       ]
     },
     {
+      "famc": [
+        {
+          "ref": "F305*80c0aaae-7de9-4122-a16d-d54c1c5b2a97"
+        }
+      ],
       "fams": [
         {
           "ref": "F304*33f93c54-8b8e-49bf-8dd5-79751a8ed000"
@@ -20691,6 +20709,25 @@
       "names": [
         {
           "value": "SARIBU RAJA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F305*80c0aaae-7de9-4122-a16d-d54c1c5b2a97"
+        }
+      ],
+      "id": "I743*82a67de8-28a8-4863-8ade-ea6ae9e9b44d",
+      "names": [
+        {
+          "value": "GURU TATEA BULAN //"
         }
       ],
       "eventsFacts": [
