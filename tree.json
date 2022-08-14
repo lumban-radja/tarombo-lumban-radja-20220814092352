@@ -5092,6 +5092,9 @@
       "childRefs": [
         {
           "ref": "I1*562410e2-e68a-4178-a01b-aaf5b16b89a7"
+        },
+        {
+          "ref": "I729*f295c99d-41db-4397-8b3f-a5e6b996436d"
         }
       ],
       "husbandRefs": [
@@ -20268,6 +20271,19 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F296*af3199c4-a06f-4ac5-a241-268961aeee76"
+        }
+      ],
+      "id": "I729*f295c99d-41db-4397-8b3f-a5e6b996436d",
+      "names": [
+        {
+          "value": "Tanjabau //"
         }
       ]
     }
