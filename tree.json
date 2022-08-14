@@ -5129,6 +5129,19 @@
         }
       ],
       "id": "F298*25254c32-4df8-425f-8332-150e3166fde6"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I731*c01680c0-d408-4bef-b9b8-226f0f43cdd2"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I732*bd53b9e1-bfe9-409e-b921-831f3513648e"
+        }
+      ],
+      "id": "F299*23323ea1-1eff-4fd2-8d9d-1b53fb87bdef"
     }
   ],
   "head": {
@@ -20350,6 +20363,11 @@
       ]
     },
     {
+      "famc": [
+        {
+          "ref": "F299*23323ea1-1eff-4fd2-8d9d-1b53fb87bdef"
+        }
+      ],
       "fams": [
         {
           "ref": "F298*25254c32-4df8-425f-8332-150e3166fde6"
@@ -20359,6 +20377,25 @@
       "names": [
         {
           "value": "SINDAR NI ARI //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F299*23323ea1-1eff-4fd2-8d9d-1b53fb87bdef"
+        }
+      ],
+      "id": "I732*bd53b9e1-bfe9-409e-b921-831f3513648e",
+      "names": [
+        {
+          "value": "TUNGKUP RAJA //"
         }
       ],
       "eventsFacts": [
