@@ -4898,6 +4898,19 @@
         }
       ],
       "id": "F286*ee57e60c-9a17-4da1-9604-4d66a5e917cd"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I695*2c19b572-2549-40db-98e6-130b7b3c6b55"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I694*1a991f80-eae6-43bc-9723-3712217cb729"
+        }
+      ],
+      "id": "F287*04e06458-5e3c-4ae8-a34b-e44b9827dea2"
     }
   ],
   "head": {
@@ -19358,10 +19371,34 @@
           "ref": "F286*ee57e60c-9a17-4da1-9604-4d66a5e917cd"
         }
       ],
+      "fams": [
+        {
+          "ref": "F287*04e06458-5e3c-4ae8-a34b-e44b9827dea2"
+        }
+      ],
       "id": "I694*1a991f80-eae6-43bc-9723-3712217cb729",
       "names": [
         {
           "value": "Op. Juara //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F287*04e06458-5e3c-4ae8-a34b-e44b9827dea2"
+        }
+      ],
+      "id": "I695*2c19b572-2549-40db-98e6-130b7b3c6b55",
+      "names": [
+        {
+          "value": "Op. Jonggi //"
         }
       ],
       "eventsFacts": [
