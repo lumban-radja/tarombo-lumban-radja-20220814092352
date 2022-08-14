@@ -4933,6 +4933,19 @@
         }
       ],
       "id": "F288*ec0d167d-ca6c-451c-a98d-d3eb3f33cba2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I700*9d8664a0-17a3-455f-b947-62745b66882b"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I699*dc0c5aa5-e234-4959-b8e5-af8b78fe2b35"
+        }
+      ],
+      "id": "F289*8b2bd12e-f965-417d-8eeb-458a0de40762"
     }
   ],
   "head": {
@@ -19498,11 +19511,35 @@
           "ref": "F288*ec0d167d-ca6c-451c-a98d-d3eb3f33cba2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F289*8b2bd12e-f965-417d-8eeb-458a0de40762"
+        }
+      ],
       "id": "I699*dc0c5aa5-e234-4959-b8e5-af8b78fe2b35",
       "names": [
         {
           "nick": "(Raja Israel)",
           "value": "Op. Sibarung //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F289*8b2bd12e-f965-417d-8eeb-458a0de40762"
+        }
+      ],
+      "id": "I700*9d8664a0-17a3-455f-b947-62745b66882b",
+      "names": [
+        {
+          "value": "R. Juda //"
         }
       ],
       "eventsFacts": [
