@@ -4855,6 +4855,9 @@
         },
         {
           "ref": "I689*f03e74f8-0fde-4882-8c2f-6bd742730ce0"
+        },
+        {
+          "ref": "I690*803d2526-c25b-4c69-a10e-133431cb5613"
         }
       ],
       "husbandRefs": [
@@ -19222,6 +19225,25 @@
       "names": [
         {
           "value": "Op. Hujogo //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F284*c6d457bf-8481-40ac-9e59-9460b6eb2e63"
+        }
+      ],
+      "id": "I690*803d2526-c25b-4c69-a10e-133431cb5613",
+      "names": [
+        {
+          "value": "Op. Tn. Nabolon //"
         }
       ],
       "eventsFacts": [
