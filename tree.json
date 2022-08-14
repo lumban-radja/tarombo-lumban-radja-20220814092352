@@ -5035,6 +5035,9 @@
         },
         {
           "ref": "I719*6ad92dcd-f5f3-4825-9d6f-5082ab236462"
+        },
+        {
+          "ref": "I720*d61d6ba4-da5c-4b0d-8b0f-6f3dc269ded0"
         }
       ],
       "husbandRefs": [
@@ -20018,6 +20021,25 @@
       "names": [
         {
           "value": "Tiras //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F293*102e2b32-b0db-4c60-8b23-8232358cac43"
+        }
+      ],
+      "id": "I720*d61d6ba4-da5c-4b0d-8b0f-6f3dc269ded0",
+      "names": [
+        {
+          "value": "Aser //"
         }
       ],
       "eventsFacts": [
