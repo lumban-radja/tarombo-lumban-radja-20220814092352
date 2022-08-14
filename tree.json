@@ -4969,6 +4969,9 @@
         },
         {
           "ref": "I707*3252b759-05a4-4bee-96b7-597b0115f06e"
+        },
+        {
+          "ref": "I708*821d77dd-7f7c-4e4d-abb6-e038fb9ced2c"
         }
       ],
       "husbandRefs": [
@@ -19709,6 +19712,25 @@
       "names": [
         {
           "value": "Elias //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F290*3bad37f3-ee98-4ccd-8cc0-05257a55d6d3"
+        }
+      ],
+      "id": "I708*821d77dd-7f7c-4e4d-abb6-e038fb9ced2c",
+      "names": [
+        {
+          "value": "Johanes //"
         }
       ],
       "eventsFacts": [
