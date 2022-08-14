@@ -5018,6 +5018,19 @@
         }
       ],
       "id": "F292*d7bedf56-26af-414a-9d34-e965f5b809cb"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I715*ecb8dc7e-a8ae-4931-90c6-3339fb33265e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I701*f07d95d3-dbf8-4e1f-99de-2b4ef16fdbe6"
+        }
+      ],
+      "id": "F293*102e2b32-b0db-4c60-8b23-8232358cac43"
     }
   ],
   "head": {
@@ -19627,6 +19640,11 @@
           "ref": "F289*8b2bd12e-f965-417d-8eeb-458a0de40762"
         }
       ],
+      "fams": [
+        {
+          "ref": "F293*102e2b32-b0db-4c60-8b23-8232358cac43"
+        }
+      ],
       "id": "I701*f07d95d3-dbf8-4e1f-99de-2b4ef16fdbe6",
       "names": [
         {
@@ -19893,6 +19911,25 @@
       "names": [
         {
           "value": "Halomoan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F293*102e2b32-b0db-4c60-8b23-8232358cac43"
+        }
+      ],
+      "id": "I715*ecb8dc7e-a8ae-4931-90c6-3339fb33265e",
+      "names": [
+        {
+          "value": "Jakken //"
         }
       ],
       "eventsFacts": [
