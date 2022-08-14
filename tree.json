@@ -5236,6 +5236,9 @@
         },
         {
           "ref": "I748*9ddf9e4b-60c9-41ed-a18a-278e65892a22"
+        },
+        {
+          "ref": "I749*2ecf3d4d-4e36-4194-9bd2-405c37d34bcf"
         }
       ],
       "husbandRefs": [
@@ -20853,6 +20856,25 @@
       "names": [
         {
           "value": "Sagala Raja //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F305*80c0aaae-7de9-4122-a16d-d54c1c5b2a97"
+        }
+      ],
+      "id": "I749*2ecf3d4d-4e36-4194-9bd2-405c37d34bcf",
+      "names": [
+        {
+          "value": "Silau Raja //"
         }
       ],
       "eventsFacts": [
