@@ -5147,6 +5147,9 @@
       "childRefs": [
         {
           "ref": "I732*bd53b9e1-bfe9-409e-b921-831f3513648e"
+        },
+        {
+          "ref": "I734*f632dbcf-54a2-4dfa-99f0-ebdbd6ad4605"
         }
       ],
       "husbandRefs": [
@@ -20433,6 +20436,25 @@
       "names": [
         {
           "value": "RAJA SIHOMBAR //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F300*cafb3ea8-6a62-4fef-90e3-076872e5b61c"
+        }
+      ],
+      "id": "I734*f632dbcf-54a2-4dfa-99f0-ebdbd6ad4605",
+      "names": [
+        {
+          "value": "Lumban Nahor //"
         }
       ],
       "eventsFacts": [
