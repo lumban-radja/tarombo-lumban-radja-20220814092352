@@ -20285,6 +20285,12 @@
         {
           "value": "Tanjabau //"
         }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
       ]
     }
   ]
