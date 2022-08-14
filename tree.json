@@ -5287,6 +5287,19 @@
         }
       ],
       "id": "F306*acca73a8-1143-4083-9815-8c3aed911349"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I758*fb774edf-2258-4ff8-93b9-adf54fa4047e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I29*28b53a2d-f77f-498a-a825-8c071ffa1cf5"
+        }
+      ],
+      "id": "F307*3e3829cb-147a-4a8f-9c66-58151369f300"
     }
   ],
   "head": {
@@ -5929,6 +5942,11 @@
       "famc": [
         {
           "ref": "F9*b05a9d4b-d0ec-446e-a754-3e2c147341b3"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F307*3e3829cb-147a-4a8f-9c66-58151369f300"
         }
       ],
       "id": "I29*28b53a2d-f77f-498a-a825-8c071ffa1cf5",
@@ -21055,6 +21073,25 @@
       "names": [
         {
           "value": "Siregar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F307*3e3829cb-147a-4a8f-9c66-58151369f300"
+        }
+      ],
+      "id": "I758*fb774edf-2258-4ff8-93b9-adf54fa4047e",
+      "names": [
+        {
+          "value": "Op. Ampangonai //"
         }
       ],
       "eventsFacts": [
