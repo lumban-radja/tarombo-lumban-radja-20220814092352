@@ -4849,6 +4849,9 @@
       "childRefs": [
         {
           "ref": "I687*bdc03c81-24a9-4018-8e88-89e02bdff4e7"
+        },
+        {
+          "ref": "I688*3b47f2fc-e3c1-4cc0-b1ea-a51a653a73a5"
         }
       ],
       "husbandRefs": [
@@ -19178,6 +19181,25 @@
       "names": [
         {
           "value": "Op. Sawangin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F284*c6d457bf-8481-40ac-9e59-9460b6eb2e63"
+        }
+      ],
+      "id": "I688*3b47f2fc-e3c1-4cc0-b1ea-a51a653a73a5",
+      "names": [
+        {
+          "value": "Op. Huosong //"
         }
       ],
       "eventsFacts": [
