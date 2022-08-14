@@ -5067,6 +5067,9 @@
       "childRefs": [
         {
           "ref": "I723*4d134eb5-d2ca-4494-b6fc-dedc70d123b9"
+        },
+        {
+          "ref": "I724*d60c4b4b-ac87-44c0-b12d-939322cd667f"
         }
       ],
       "husbandRefs": [
@@ -20142,6 +20145,19 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F295*d52bbab3-2140-4316-8118-a022e3497ad4"
+        }
+      ],
+      "id": "I724*d60c4b4b-ac87-44c0-b12d-939322cd667f",
+      "names": [
+        {
+          "value": " //"
         }
       ]
     }
