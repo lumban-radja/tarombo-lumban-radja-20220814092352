@@ -5051,6 +5051,9 @@
       "childRefs": [
         {
           "ref": "I721*746c5f4c-e36b-48b6-babb-292e84d55a4d"
+        },
+        {
+          "ref": "I722*b63bfbcb-d096-446c-bb0d-9a1a3ea4d3b9"
         }
       ],
       "husbandRefs": [
@@ -20077,6 +20080,25 @@
       "names": [
         {
           "value": "Kalmen //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F294*4cd8a5a2-254f-47c4-bd76-b7e006263015"
+        }
+      ],
+      "id": "I722*b63bfbcb-d096-446c-bb0d-9a1a3ea4d3b9",
+      "names": [
+        {
+          "value": "Sihar //"
         }
       ],
       "eventsFacts": [
