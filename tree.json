@@ -5214,6 +5214,9 @@
       "childRefs": [
         {
           "ref": "I741*8d6e7d6c-4633-495e-b4ae-31e2bda63a6f"
+        },
+        {
+          "ref": "I750*f57aa050-3d62-4a7a-8a3d-1ccbea4da3b5"
         }
       ],
       "husbandRefs": [
@@ -20875,6 +20878,25 @@
       "names": [
         {
           "value": "Silau Raja //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F304*33f93c54-8b8e-49bf-8dd5-79751a8ed000"
+        }
+      ],
+      "id": "I750*f57aa050-3d62-4a7a-8a3d-1ccbea4da3b5",
+      "names": [
+        {
+          "value": "Rsja Borbor //"
         }
       ],
       "eventsFacts": [
