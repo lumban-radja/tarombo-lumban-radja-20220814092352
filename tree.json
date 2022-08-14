@@ -5207,6 +5207,9 @@
         },
         {
           "ref": "I737*85521d56-33eb-436d-95ab-51e02ff8239c"
+        },
+        {
+          "ref": "I754*63c049f0-13ea-45a1-8708-13e990a35237"
         }
       ],
       "husbandRefs": [
@@ -20963,6 +20966,25 @@
       "names": [
         {
           "value": "Situmorang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F303*927a5e44-da79-416c-aec1-6da7948d5282"
+        }
+      ],
+      "id": "I754*63c049f0-13ea-45a1-8708-13e990a35237",
+      "names": [
+        {
+          "value": "Pandiangan //"
         }
       ],
       "eventsFacts": [
