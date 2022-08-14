@@ -5196,6 +5196,19 @@
         }
       ],
       "id": "F302*40b18c7a-4a7d-4908-8616-bc0859b173e8"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I737*85521d56-33eb-436d-95ab-51e02ff8239c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I741*8d6e7d6c-4633-495e-b4ae-31e2bda63a6f"
+        }
+      ],
+      "id": "F303*927a5e44-da79-416c-aec1-6da7948d5282"
     }
   ],
   "head": {
@@ -20546,6 +20559,11 @@
       ]
     },
     {
+      "famc": [
+        {
+          "ref": "F303*927a5e44-da79-416c-aec1-6da7948d5282"
+        }
+      ],
       "fams": [
         {
           "ref": "F301*49d3de1d-4060-41d6-a934-638e30314485"
@@ -20617,6 +20635,25 @@
       "names": [
         {
           "value": "Parhusip //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F303*927a5e44-da79-416c-aec1-6da7948d5282"
+        }
+      ],
+      "id": "I741*8d6e7d6c-4633-495e-b4ae-31e2bda63a6f",
+      "names": [
+        {
+          "value": "RAJA LOTUNG //"
         }
       ],
       "eventsFacts": [
