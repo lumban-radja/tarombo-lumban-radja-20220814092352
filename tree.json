@@ -5023,6 +5023,9 @@
       "childRefs": [
         {
           "ref": "I715*ecb8dc7e-a8ae-4931-90c6-3339fb33265e"
+        },
+        {
+          "ref": "I716*b8f2bf97-bf57-43a2-8345-16b8bef5b98a"
         }
       ],
       "husbandRefs": [
@@ -19930,6 +19933,25 @@
       "names": [
         {
           "value": "Jakken //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F293*102e2b32-b0db-4c60-8b23-8232358cac43"
+        }
+      ],
+      "id": "I716*b8f2bf97-bf57-43a2-8345-16b8bef5b98a",
+      "names": [
+        {
+          "value": "Heba //"
         }
       ],
       "eventsFacts": [
