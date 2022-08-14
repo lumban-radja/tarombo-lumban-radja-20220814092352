@@ -4872,6 +4872,19 @@
         }
       ],
       "id": "F284*c6d457bf-8481-40ac-9e59-9460b6eb2e63"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I693*626e3add-03c2-4aca-be6f-aa235a2cee7c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I688*3b47f2fc-e3c1-4cc0-b1ea-a51a653a73a5"
+        }
+      ],
+      "id": "F285*1c7b6902-c64d-4a70-93a9-d2dd57dfb6f5"
     }
   ],
   "head": {
@@ -19208,6 +19221,11 @@
           "ref": "F284*c6d457bf-8481-40ac-9e59-9460b6eb2e63"
         }
       ],
+      "fams": [
+        {
+          "ref": "F285*1c7b6902-c64d-4a70-93a9-d2dd57dfb6f5"
+        }
+      ],
       "id": "I688*3b47f2fc-e3c1-4cc0-b1ea-a51a653a73a5",
       "names": [
         {
@@ -19288,6 +19306,25 @@
       "names": [
         {
           "value": "Op. Gendam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F285*1c7b6902-c64d-4a70-93a9-d2dd57dfb6f5"
+        }
+      ],
+      "id": "I693*626e3add-03c2-4aca-be6f-aa235a2cee7c",
+      "names": [
+        {
+          "value": "Uongna //"
         }
       ],
       "eventsFacts": [
