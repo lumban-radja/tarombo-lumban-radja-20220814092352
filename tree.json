@@ -5230,6 +5230,9 @@
         },
         {
           "ref": "I742*b19cb01f-50e1-48f3-9a73-a23377eec45a"
+        },
+        {
+          "ref": "I747*547fe11b-baa7-4cf2-8b87-afec3df603de"
         }
       ],
       "husbandRefs": [
@@ -20809,6 +20812,25 @@
       "names": [
         {
           "value": "Raja Uti //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F305*80c0aaae-7de9-4122-a16d-d54c1c5b2a97"
+        }
+      ],
+      "id": "I747*547fe11b-baa7-4cf2-8b87-afec3df603de",
+      "names": [
+        {
+          "value": "Limbong Mulana //"
         }
       ],
       "eventsFacts": [
