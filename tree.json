@@ -4986,6 +4986,19 @@
         }
       ],
       "id": "F290*3bad37f3-ee98-4ccd-8cc0-05257a55d6d3"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I711*6d0734bd-bf44-45d8-b9de-221923f9870e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I706*71fac552-8805-4b2f-8d85-3407dd6ee235"
+        }
+      ],
+      "id": "F291*b26b07d7-07d8-43ca-9d60-9ab27d7ec49f"
     }
   ],
   "head": {
@@ -19695,6 +19708,11 @@
           "ref": "F290*3bad37f3-ee98-4ccd-8cc0-05257a55d6d3"
         }
       ],
+      "fams": [
+        {
+          "ref": "F291*b26b07d7-07d8-43ca-9d60-9ab27d7ec49f"
+        }
+      ],
       "id": "I706*71fac552-8805-4b2f-8d85-3407dd6ee235",
       "names": [
         {
@@ -19775,6 +19793,25 @@
       "names": [
         {
           "value": "Saladin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F291*b26b07d7-07d8-43ca-9d60-9ab27d7ec49f"
+        }
+      ],
+      "id": "I711*6d0734bd-bf44-45d8-b9de-221923f9870e",
+      "names": [
+        {
+          "value": "Rulia //"
         }
       ],
       "eventsFacts": [
