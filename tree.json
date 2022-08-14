@@ -4852,6 +4852,9 @@
         },
         {
           "ref": "I688*3b47f2fc-e3c1-4cc0-b1ea-a51a653a73a5"
+        },
+        {
+          "ref": "I689*f03e74f8-0fde-4882-8c2f-6bd742730ce0"
         }
       ],
       "husbandRefs": [
@@ -19200,6 +19203,25 @@
       "names": [
         {
           "value": "Op. Huosong //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F284*c6d457bf-8481-40ac-9e59-9460b6eb2e63"
+        }
+      ],
+      "id": "I689*f03e74f8-0fde-4882-8c2f-6bd742730ce0",
+      "names": [
+        {
+          "value": "Op. Hujogo //"
         }
       ],
       "eventsFacts": [
