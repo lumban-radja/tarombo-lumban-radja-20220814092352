@@ -5185,6 +5185,9 @@
       "childRefs": [
         {
           "ref": "I739*348f42d9-e6db-487a-a1b7-757f28332409"
+        },
+        {
+          "ref": "I740*588b2305-5b4d-47cb-99b5-44484060d4df"
         }
       ],
       "husbandRefs": [
@@ -20595,6 +20598,25 @@
       "names": [
         {
           "value": "Batuara //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F302*40b18c7a-4a7d-4908-8616-bc0859b173e8"
+        }
+      ],
+      "id": "I740*588b2305-5b4d-47cb-99b5-44484060d4df",
+      "names": [
+        {
+          "value": "Parhusip //"
         }
       ],
       "eventsFacts": [
