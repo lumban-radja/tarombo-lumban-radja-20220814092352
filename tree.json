@@ -4885,6 +4885,19 @@
         }
       ],
       "id": "F285*1c7b6902-c64d-4a70-93a9-d2dd57dfb6f5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I694*1a991f80-eae6-43bc-9723-3712217cb729"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I693*626e3add-03c2-4aca-be6f-aa235a2cee7c"
+        }
+      ],
+      "id": "F286*ee57e60c-9a17-4da1-9604-4d66a5e917cd"
     }
   ],
   "head": {
@@ -19321,10 +19334,34 @@
           "ref": "F285*1c7b6902-c64d-4a70-93a9-d2dd57dfb6f5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F286*ee57e60c-9a17-4da1-9604-4d66a5e917cd"
+        }
+      ],
       "id": "I693*626e3add-03c2-4aca-be6f-aa235a2cee7c",
       "names": [
         {
           "value": "Uongna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F286*ee57e60c-9a17-4da1-9604-4d66a5e917cd"
+        }
+      ],
+      "id": "I694*1a991f80-eae6-43bc-9723-3712217cb729",
+      "names": [
+        {
+          "value": "Op. Juara //"
         }
       ],
       "eventsFacts": [
