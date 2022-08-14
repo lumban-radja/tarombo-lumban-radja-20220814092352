@@ -5029,6 +5029,9 @@
         },
         {
           "ref": "I717*1d268169-3aa0-4952-b5a6-d769eb097a8c"
+        },
+        {
+          "ref": "I718*110a3313-bfcc-49b4-848b-1a940ff1272c"
         }
       ],
       "husbandRefs": [
@@ -19974,6 +19977,25 @@
       "names": [
         {
           "value": "Alexander //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F293*102e2b32-b0db-4c60-8b23-8232358cac43"
+        }
+      ],
+      "id": "I718*110a3313-bfcc-49b4-848b-1a940ff1272c",
+      "names": [
+        {
+          "value": "Edius //"
         }
       ],
       "eventsFacts": [
