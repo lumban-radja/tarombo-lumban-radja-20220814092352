@@ -4903,6 +4903,9 @@
       "childRefs": [
         {
           "ref": "I695*2c19b572-2549-40db-98e6-130b7b3c6b55"
+        },
+        {
+          "ref": "I696*3019204a-e7ab-47e4-b3f1-ce64cd35c275"
         }
       ],
       "husbandRefs": [
@@ -19399,6 +19402,25 @@
       "names": [
         {
           "value": "Op. Jonggi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F287*04e06458-5e3c-4ae8-a34b-e44b9827dea2"
+        }
+      ],
+      "id": "I696*3019204a-e7ab-47e4-b3f1-ce64cd35c275",
+      "names": [
+        {
+          "value": "Op. Gulottam //"
         }
       ],
       "eventsFacts": [
