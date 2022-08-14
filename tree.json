@@ -5103,6 +5103,19 @@
         }
       ],
       "id": "F296*af3199c4-a06f-4ac5-a241-268961aeee76"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I728*d48ebd43-8e3b-4a19-a417-f0e28e711d04"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I730*c5d6198e-14a0-4536-8eb6-f70ebf18d0e2"
+        }
+      ],
+      "id": "F297*5e0396be-37ea-4461-9a19-d998202214c0"
     }
   ],
   "head": {
@@ -20256,6 +20269,11 @@
       ]
     },
     {
+      "famc": [
+        {
+          "ref": "F297*5e0396be-37ea-4461-9a19-d998202214c0"
+        }
+      ],
       "fams": [
         {
           "ref": "F296*af3199c4-a06f-4ac5-a241-268961aeee76"
@@ -20285,6 +20303,25 @@
         {
           "nick": "(Tungkup Raja)",
           "value": "Tanjabau //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F297*5e0396be-37ea-4461-9a19-d998202214c0"
+        }
+      ],
+      "id": "I730*c5d6198e-14a0-4536-8eb6-f70ebf18d0e2",
+      "names": [
+        {
+          "value": "SINDAR NI HUTA //"
         }
       ],
       "eventsFacts": [
