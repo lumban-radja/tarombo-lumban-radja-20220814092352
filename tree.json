@@ -4961,6 +4961,19 @@
         }
       ],
       "id": "F289*8b2bd12e-f965-417d-8eeb-458a0de40762"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I706*71fac552-8805-4b2f-8d85-3407dd6ee235"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I702*e1dc7b29-418d-4fbe-98e1-e19769554094"
+        }
+      ],
+      "id": "F290*3bad37f3-ee98-4ccd-8cc0-05257a55d6d3"
     }
   ],
   "head": {
@@ -19589,6 +19602,11 @@
           "ref": "F289*8b2bd12e-f965-417d-8eeb-458a0de40762"
         }
       ],
+      "fams": [
+        {
+          "ref": "F290*3bad37f3-ee98-4ccd-8cc0-05257a55d6d3"
+        }
+      ],
       "id": "I702*e1dc7b29-418d-4fbe-98e1-e19769554094",
       "names": [
         {
@@ -19650,6 +19668,25 @@
       "names": [
         {
           "value": "R. Daniel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F290*3bad37f3-ee98-4ccd-8cc0-05257a55d6d3"
+        }
+      ],
+      "id": "I706*71fac552-8805-4b2f-8d85-3407dd6ee235",
+      "names": [
+        {
+          "value": "Zakheus //"
         }
       ],
       "eventsFacts": [
