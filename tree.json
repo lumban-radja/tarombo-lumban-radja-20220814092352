@@ -5292,6 +5292,9 @@
       "childRefs": [
         {
           "ref": "I758*fb774edf-2258-4ff8-93b9-adf54fa4047e"
+        },
+        {
+          "ref": "I759*d8091f0d-5330-4bbc-a6f3-492cbb8eff16"
         }
       ],
       "husbandRefs": [
@@ -21092,6 +21095,25 @@
       "names": [
         {
           "value": "Op. Ampangonai //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F307*3e3829cb-147a-4a8f-9c66-58151369f300"
+        }
+      ],
+      "id": "I759*d8091f0d-5330-4bbc-a6f3-492cbb8eff16",
+      "names": [
+        {
+          "value": "Op. Turpuk //"
         }
       ],
       "eventsFacts": [
