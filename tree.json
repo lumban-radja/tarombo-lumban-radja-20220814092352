@@ -5295,6 +5295,9 @@
         },
         {
           "ref": "I759*d8091f0d-5330-4bbc-a6f3-492cbb8eff16"
+        },
+        {
+          "ref": "I760*24fec0ec-069a-42eb-9358-1c828b49a3a7"
         }
       ],
       "husbandRefs": [
@@ -21114,6 +21117,25 @@
       "names": [
         {
           "value": "Op. Turpuk //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F307*3e3829cb-147a-4a8f-9c66-58151369f300"
+        }
+      ],
+      "id": "I760*24fec0ec-069a-42eb-9358-1c828b49a3a7",
+      "names": [
+        {
+          "value": "Op. Batu Suksuk //"
         }
       ],
       "eventsFacts": [
