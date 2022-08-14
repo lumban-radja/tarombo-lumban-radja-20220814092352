@@ -5062,6 +5062,19 @@
         }
       ],
       "id": "F294*4cd8a5a2-254f-47c4-bd76-b7e006263015"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I723*4d134eb5-d2ca-4494-b6fc-dedc70d123b9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I722*b63bfbcb-d096-446c-bb0d-9a1a3ea4d3b9"
+        }
+      ],
+      "id": "F295*d52bbab3-2140-4316-8118-a022e3497ad4"
     }
   ],
   "head": {
@@ -20095,10 +20108,34 @@
           "ref": "F294*4cd8a5a2-254f-47c4-bd76-b7e006263015"
         }
       ],
+      "fams": [
+        {
+          "ref": "F295*d52bbab3-2140-4316-8118-a022e3497ad4"
+        }
+      ],
       "id": "I722*b63bfbcb-d096-446c-bb0d-9a1a3ea4d3b9",
       "names": [
         {
           "value": "Sihar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F295*d52bbab3-2140-4316-8118-a022e3497ad4"
+        }
+      ],
+      "id": "I723*4d134eb5-d2ca-4494-b6fc-dedc70d123b9",
+      "names": [
+        {
+          "value": "Ronald Marco //"
         }
       ],
       "eventsFacts": [
