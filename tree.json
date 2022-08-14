@@ -4991,6 +4991,9 @@
       "childRefs": [
         {
           "ref": "I711*6d0734bd-bf44-45d8-b9de-221923f9870e"
+        },
+        {
+          "ref": "I712*8cb54be2-d1c3-4395-b7fb-7712a7bd1984"
         }
       ],
       "husbandRefs": [
@@ -19812,6 +19815,25 @@
       "names": [
         {
           "value": "Rulia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F291*b26b07d7-07d8-43ca-9d60-9ab27d7ec49f"
+        }
+      ],
+      "id": "I712*8cb54be2-d1c3-4395-b7fb-7712a7bd1984",
+      "names": [
+        {
+          "value": "Marudo //"
         }
       ],
       "eventsFacts": [
