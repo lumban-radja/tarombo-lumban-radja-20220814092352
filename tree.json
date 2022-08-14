@@ -4920,6 +4920,19 @@
         }
       ],
       "id": "F287*04e06458-5e3c-4ae8-a34b-e44b9827dea2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I699*dc0c5aa5-e234-4959-b8e5-af8b78fe2b35"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I696*3019204a-e7ab-47e4-b3f1-ce64cd35c275"
+        }
+      ],
+      "id": "F288*ec0d167d-ca6c-451c-a98d-d3eb3f33cba2"
     }
   ],
   "head": {
@@ -19423,6 +19436,11 @@
           "ref": "F287*04e06458-5e3c-4ae8-a34b-e44b9827dea2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F288*ec0d167d-ca6c-451c-a98d-d3eb3f33cba2"
+        }
+      ],
       "id": "I696*3019204a-e7ab-47e4-b3f1-ce64cd35c275",
       "names": [
         {
@@ -19465,6 +19483,25 @@
       "names": [
         {
           "value": "Op. Lambas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F288*ec0d167d-ca6c-451c-a98d-d3eb3f33cba2"
+        }
+      ],
+      "id": "I699*dc0c5aa5-e234-4959-b8e5-af8b78fe2b35",
+      "names": [
+        {
+          "value": "Op. Sibarung //"
         }
       ],
       "eventsFacts": [
