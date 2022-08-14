@@ -5087,6 +5087,19 @@
         }
       ],
       "id": "F295*d52bbab3-2140-4316-8118-a022e3497ad4"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1*562410e2-e68a-4178-a01b-aaf5b16b89a7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I728*d48ebd43-8e3b-4a19-a417-f0e28e711d04"
+        }
+      ],
+      "id": "F296*af3199c4-a06f-4ac5-a241-268961aeee76"
     }
   ],
   "head": {
@@ -5111,6 +5124,11 @@
   },
   "people": [
     {
+      "famc": [
+        {
+          "ref": "F296*af3199c4-a06f-4ac5-a241-268961aeee76"
+        }
+      ],
       "fams": [
         {
           "ref": "F1*956c0e93-28f4-4629-9317-ed663ec8d347"
@@ -20225,6 +20243,25 @@
       "names": [
         {
           "value": "James Chandra //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F296*af3199c4-a06f-4ac5-a241-268961aeee76"
+        }
+      ],
+      "id": "I728*d48ebd43-8e3b-4a19-a417-f0e28e711d04",
+      "names": [
+        {
+          "value": "MOGOT PINAYUNGAN //"
         }
       ],
       "eventsFacts": [
