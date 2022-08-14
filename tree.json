@@ -4858,6 +4858,9 @@
         },
         {
           "ref": "I690*803d2526-c25b-4c69-a10e-133431cb5613"
+        },
+        {
+          "ref": "I691*23ce8bf1-d463-47dd-9fb3-d545c7bea1b5"
         }
       ],
       "husbandRefs": [
@@ -19244,6 +19247,25 @@
       "names": [
         {
           "value": "Op. Tn. Nabolon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F284*c6d457bf-8481-40ac-9e59-9460b6eb2e63"
+        }
+      ],
+      "id": "I691*23ce8bf1-d463-47dd-9fb3-d545c7bea1b5",
+      "names": [
+        {
+          "value": "Op. Sodiha //"
         }
       ],
       "eventsFacts": [
