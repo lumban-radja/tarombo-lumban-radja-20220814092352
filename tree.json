@@ -4861,6 +4861,9 @@
         },
         {
           "ref": "I691*23ce8bf1-d463-47dd-9fb3-d545c7bea1b5"
+        },
+        {
+          "ref": "I692*0874d4a8-db99-4fb1-9037-8728fb99737a"
         }
       ],
       "husbandRefs": [
@@ -19266,6 +19269,25 @@
       "names": [
         {
           "value": "Op. Sodiha //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F284*c6d457bf-8481-40ac-9e59-9460b6eb2e63"
+        }
+      ],
+      "id": "I692*0874d4a8-db99-4fb1-9037-8728fb99737a",
+      "names": [
+        {
+          "value": "Op. Gendam //"
         }
       ],
       "eventsFacts": [
