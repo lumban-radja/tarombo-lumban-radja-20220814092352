@@ -4906,6 +4906,9 @@
         },
         {
           "ref": "I696*3019204a-e7ab-47e4-b3f1-ce64cd35c275"
+        },
+        {
+          "ref": "I697*c65de26b-5fdd-4e3c-bcdc-5470fd31dc78"
         }
       ],
       "husbandRefs": [
@@ -19421,6 +19424,25 @@
       "names": [
         {
           "value": "Op. Gulottam //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F287*04e06458-5e3c-4ae8-a34b-e44b9827dea2"
+        }
+      ],
+      "id": "I697*c65de26b-5fdd-4e3c-bcdc-5470fd31dc78",
+      "names": [
+        {
+          "value": "Op. Rungga //"
         }
       ],
       "eventsFacts": [
