@@ -5005,6 +5005,19 @@
         }
       ],
       "id": "F291*b26b07d7-07d8-43ca-9d60-9ab27d7ec49f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I714*7953acc5-25ec-4cda-ad4b-c463530994dc"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I712*8cb54be2-d1c3-4395-b7fb-7712a7bd1984"
+        }
+      ],
+      "id": "F292*d7bedf56-26af-414a-9d34-e965f5b809cb"
     }
   ],
   "head": {
@@ -19833,6 +19846,11 @@
           "ref": "F291*b26b07d7-07d8-43ca-9d60-9ab27d7ec49f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F292*d7bedf56-26af-414a-9d34-e965f5b809cb"
+        }
+      ],
       "id": "I712*8cb54be2-d1c3-4395-b7fb-7712a7bd1984",
       "names": [
         {
@@ -19856,6 +19874,25 @@
       "names": [
         {
           "value": "Zamot //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F292*d7bedf56-26af-414a-9d34-e965f5b809cb"
+        }
+      ],
+      "id": "I714*7953acc5-25ec-4cda-ad4b-c463530994dc",
+      "names": [
+        {
+          "value": "Halomoan //"
         }
       ],
       "eventsFacts": [
