@@ -4941,6 +4941,9 @@
         },
         {
           "ref": "I701*f07d95d3-dbf8-4e1f-99de-2b4ef16fdbe6"
+        },
+        {
+          "ref": "I702*e1dc7b29-418d-4fbe-98e1-e19769554094"
         }
       ],
       "husbandRefs": [
@@ -19562,6 +19565,25 @@
       "names": [
         {
           "value": "R. Samuel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F289*8b2bd12e-f965-417d-8eeb-458a0de40762"
+        }
+      ],
+      "id": "I702*e1dc7b29-418d-4fbe-98e1-e19769554094",
+      "names": [
+        {
+          "value": "R. Musa //"
         }
       ],
       "eventsFacts": [
