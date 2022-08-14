@@ -4909,6 +4909,9 @@
         },
         {
           "ref": "I697*c65de26b-5fdd-4e3c-bcdc-5470fd31dc78"
+        },
+        {
+          "ref": "I698*c09166cf-9851-4bc0-8b53-75e53b98018b"
         }
       ],
       "husbandRefs": [
@@ -19443,6 +19446,25 @@
       "names": [
         {
           "value": "Op. Rungga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F287*04e06458-5e3c-4ae8-a34b-e44b9827dea2"
+        }
+      ],
+      "id": "I698*c09166cf-9851-4bc0-8b53-75e53b98018b",
+      "names": [
+        {
+          "value": "Op. Lambas //"
         }
       ],
       "eventsFacts": [
