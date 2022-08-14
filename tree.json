@@ -5046,6 +5046,19 @@
         }
       ],
       "id": "F293*102e2b32-b0db-4c60-8b23-8232358cac43"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I721*746c5f4c-e36b-48b6-babb-292e84d55a4d"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I717*1d268169-3aa0-4952-b5a6-d769eb097a8c"
+        }
+      ],
+      "id": "F294*4cd8a5a2-254f-47c4-bd76-b7e006263015"
     }
   ],
   "head": {
@@ -19979,6 +19992,11 @@
           "ref": "F293*102e2b32-b0db-4c60-8b23-8232358cac43"
         }
       ],
+      "fams": [
+        {
+          "ref": "F294*4cd8a5a2-254f-47c4-bd76-b7e006263015"
+        }
+      ],
       "id": "I717*1d268169-3aa0-4952-b5a6-d769eb097a8c",
       "names": [
         {
@@ -20040,6 +20058,25 @@
       "names": [
         {
           "value": "Aser //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F294*4cd8a5a2-254f-47c4-bd76-b7e006263015"
+        }
+      ],
+      "id": "I721*746c5f4c-e36b-48b6-babb-292e84d55a4d",
+      "names": [
+        {
+          "value": "Kalmen //"
         }
       ],
       "eventsFacts": [
