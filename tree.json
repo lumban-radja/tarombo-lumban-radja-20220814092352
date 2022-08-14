@@ -5240,6 +5240,9 @@
       "childRefs": [
         {
           "ref": "I743*82a67de8-28a8-4863-8ade-ea6ae9e9b44d"
+        },
+        {
+          "ref": "I745*a4f3f4e6-ab98-414e-ba46-710a7336fdf4"
         }
       ],
       "husbandRefs": [
@@ -20765,6 +20768,25 @@
       "names": [
         {
           "value": "SIRAJA BATAK //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F306*acca73a8-1143-4083-9815-8c3aed911349"
+        }
+      ],
+      "id": "I745*a4f3f4e6-ab98-414e-ba46-710a7336fdf4",
+      "names": [
+        {
+          "value": "Raja Isumbaon //"
         }
       ],
       "eventsFacts": [
