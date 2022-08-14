@@ -5201,6 +5201,9 @@
       "childRefs": [
         {
           "ref": "I737*85521d56-33eb-436d-95ab-51e02ff8239c"
+        },
+        {
+          "ref": "I752*d0279bd9-d10b-473f-8f0a-169e6512bb17"
         }
       ],
       "husbandRefs": [
@@ -20919,6 +20922,25 @@
       "names": [
         {
           "value": "Raja Guleman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F303*927a5e44-da79-416c-aec1-6da7948d5282"
+        }
+      ],
+      "id": "I752*d0279bd9-d10b-473f-8f0a-169e6512bb17",
+      "names": [
+        {
+          "value": "Sinaga //"
         }
       ],
       "eventsFacts": [
