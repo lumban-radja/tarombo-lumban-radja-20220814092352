@@ -5213,6 +5213,9 @@
         },
         {
           "ref": "I755*942b20da-7483-4ba3-aeab-a1181e324dfd"
+        },
+        {
+          "ref": "I756*b734bba8-694e-46af-ba09-16633044aa2f"
         }
       ],
       "husbandRefs": [
@@ -21007,6 +21010,25 @@
       "names": [
         {
           "value": "Simatupang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F303*927a5e44-da79-416c-aec1-6da7948d5282"
+        }
+      ],
+      "id": "I756*b734bba8-694e-46af-ba09-16633044aa2f",
+      "names": [
+        {
+          "value": "Aritonang //"
         }
       ],
       "eventsFacts": [
