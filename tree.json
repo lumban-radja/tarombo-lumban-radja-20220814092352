@@ -5204,6 +5204,9 @@
         },
         {
           "ref": "I737*85521d56-33eb-436d-95ab-51e02ff8239c"
+        },
+        {
+          "ref": "I753*762a791d-319c-4b93-abfa-4d14b87e1bcc"
         }
       ],
       "husbandRefs": [
@@ -20941,6 +20944,25 @@
       "names": [
         {
           "value": "Sinaga //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F303*927a5e44-da79-416c-aec1-6da7948d5282"
+        }
+      ],
+      "id": "I753*762a791d-319c-4b93-abfa-4d14b87e1bcc",
+      "names": [
+        {
+          "value": "Situmorang //"
         }
       ],
       "eventsFacts": [
