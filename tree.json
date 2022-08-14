@@ -5076,6 +5076,9 @@
         },
         {
           "ref": "I726*bf424c19-7fc8-49c6-ab87-3f6e9531e625"
+        },
+        {
+          "ref": "I727*491cee2f-15c2-4344-bacd-b1d8e66ba690"
         }
       ],
       "husbandRefs": [
@@ -20202,6 +20205,25 @@
       "names": [
         {
           "value": "Madonna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F295*d52bbab3-2140-4316-8118-a022e3497ad4"
+        }
+      ],
+      "id": "I727*491cee2f-15c2-4344-bacd-b1d8e66ba690",
+      "names": [
+        {
+          "value": "James Chandra //"
         }
       ],
       "eventsFacts": [
