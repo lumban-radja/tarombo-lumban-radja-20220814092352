@@ -4944,6 +4944,9 @@
         },
         {
           "ref": "I702*e1dc7b29-418d-4fbe-98e1-e19769554094"
+        },
+        {
+          "ref": "I703*b96899c4-d91c-4803-8398-733ee400ceac"
         }
       ],
       "husbandRefs": [
@@ -19584,6 +19587,25 @@
       "names": [
         {
           "value": "R. Musa //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F289*8b2bd12e-f965-417d-8eeb-458a0de40762"
+        }
+      ],
+      "id": "I703*b96899c4-d91c-4803-8398-733ee400ceac",
+      "names": [
+        {
+          "value": "R. Daud //"
         }
       ],
       "eventsFacts": [
