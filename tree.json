@@ -5233,6 +5233,9 @@
         },
         {
           "ref": "I747*547fe11b-baa7-4cf2-8b87-afec3df603de"
+        },
+        {
+          "ref": "I748*9ddf9e4b-60c9-41ed-a18a-278e65892a22"
         }
       ],
       "husbandRefs": [
@@ -20831,6 +20834,25 @@
       "names": [
         {
           "value": "Limbong Mulana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F305*80c0aaae-7de9-4122-a16d-d54c1c5b2a97"
+        }
+      ],
+      "id": "I748*9ddf9e4b-60c9-41ed-a18a-278e65892a22",
+      "names": [
+        {
+          "value": "Sagala Raja //"
         }
       ],
       "eventsFacts": [
