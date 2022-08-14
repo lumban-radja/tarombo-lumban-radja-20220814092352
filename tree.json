@@ -5209,6 +5209,19 @@
         }
       ],
       "id": "F303*927a5e44-da79-416c-aec1-6da7948d5282"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I741*8d6e7d6c-4633-495e-b4ae-31e2bda63a6f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I742*b19cb01f-50e1-48f3-9a73-a23377eec45a"
+        }
+      ],
+      "id": "F304*33f93c54-8b8e-49bf-8dd5-79751a8ed000"
     }
   ],
   "head": {
@@ -20645,6 +20658,11 @@
       ]
     },
     {
+      "famc": [
+        {
+          "ref": "F304*33f93c54-8b8e-49bf-8dd5-79751a8ed000"
+        }
+      ],
       "fams": [
         {
           "ref": "F303*927a5e44-da79-416c-aec1-6da7948d5282"
@@ -20654,6 +20672,25 @@
       "names": [
         {
           "value": "RAJA LOTUNG //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F304*33f93c54-8b8e-49bf-8dd5-79751a8ed000"
+        }
+      ],
+      "id": "I742*b19cb01f-50e1-48f3-9a73-a23377eec45a",
+      "names": [
+        {
+          "value": "SARIBU RAJA //"
         }
       ],
       "eventsFacts": [
