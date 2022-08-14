@@ -5216,6 +5216,9 @@
         },
         {
           "ref": "I756*b734bba8-694e-46af-ba09-16633044aa2f"
+        },
+        {
+          "ref": "I757*ba50c88a-91e1-49fa-a5df-c9e3cf3dba98"
         }
       ],
       "husbandRefs": [
@@ -21029,6 +21032,25 @@
       "names": [
         {
           "value": "Aritonang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F303*927a5e44-da79-416c-aec1-6da7948d5282"
+        }
+      ],
+      "id": "I757*ba50c88a-91e1-49fa-a5df-c9e3cf3dba98",
+      "names": [
+        {
+          "value": "Siregar //"
         }
       ],
       "eventsFacts": [
