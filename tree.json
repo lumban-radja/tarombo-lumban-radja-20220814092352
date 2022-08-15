@@ -1922,6 +1922,9 @@
         },
         {
           "ref": "I284*16c7d8a9-35d2-4f49-984f-6f05c104ee4a"
+        },
+        {
+          "ref": "I761*0b504feb-2780-4f59-870a-059d8f4e94b0"
         }
       ],
       "husbandRefs": [
@@ -21148,6 +21151,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F110*6aabd7d4-3e64-4a0c-a902-e467dab699fe"
+        }
+      ],
+      "id": "I761*0b504feb-2780-4f59-870a-059d8f4e94b0",
+      "names": [
+        {
+          "value": "Sondang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
