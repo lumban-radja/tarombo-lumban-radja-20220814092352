@@ -3014,11 +3014,6 @@
       "id": "F170*a9d13446-a5b5-4a75-ae30-474e1a436f02"
     },
     {
-      "childRefs": [
-        {
-          "ref": "I447*46f2e260-88fb-4585-8032-71155bce9ce6"
-        }
-      ],
       "husbandRefs": [
         {
           "ref": "I442*585cabce-a70d-49fc-b34a-9d415dffa85c"
@@ -14635,11 +14630,6 @@
       ]
     },
     {
-      "famc": [
-        {
-          "ref": "F171*b8eedc9a-0d1a-4cdc-bffc-6952b37b2380"
-        }
-      ],
       "id": "I447*46f2e260-88fb-4585-8032-71155bce9ce6",
       "names": [
         {
