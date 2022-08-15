@@ -5312,6 +5312,19 @@
         }
       ],
       "id": "F307*3e3829cb-147a-4a8f-9c66-58151369f300"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I763*85783576-4a0e-4a6d-b189-3990c235a3cb"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I371*8a9a20ea-df3d-4473-bd06-1fe42e57fa17"
+        }
+      ],
+      "id": "F308*378e5609-9fdb-4fc2-b3c1-43eb30e3af2e"
     }
   ],
   "head": {
@@ -13029,6 +13042,11 @@
       "famc": [
         {
           "ref": "F136*98ea9c12-55a4-4977-8461-9706939a8099"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F308*378e5609-9fdb-4fc2-b3c1-43eb30e3af2e"
         }
       ],
       "id": "I371*8a9a20ea-df3d-4473-bd06-1fe42e57fa17",
@@ -21188,6 +21206,25 @@
       "names": [
         {
           "value": "Elly //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F308*378e5609-9fdb-4fc2-b3c1-43eb30e3af2e"
+        }
+      ],
+      "id": "I763*85783576-4a0e-4a6d-b189-3990c235a3cb",
+      "names": [
+        {
+          "value": "Olivia //"
         }
       ],
       "eventsFacts": [
