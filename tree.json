@@ -5447,6 +5447,19 @@
         }
       ],
       "id": "F313*72288f4b-8a55-46f3-b5be-50d9b40fbcb5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I788*f6469a3e-a005-4575-9d75-591a9688ffaa"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I781*1a90a475-b8d1-4284-b500-057ede4a359c"
+        }
+      ],
+      "id": "F314*70663e7f-e6a5-4691-a6a5-b870bd375574"
     }
   ],
   "head": {
@@ -21710,6 +21723,11 @@
           "ref": "F312*a9f9997b-ef1a-47b9-9e8f-08c083edadd4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F314*70663e7f-e6a5-4691-a6a5-b870bd375574"
+        }
+      ],
       "id": "I781*1a90a475-b8d1-4284-b500-057ede4a359c",
       "names": [
         {
@@ -21828,6 +21846,25 @@
       "names": [
         {
           "value": "Benny (14) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F314*70663e7f-e6a5-4691-a6a5-b870bd375574"
+        }
+      ],
+      "id": "I788*f6469a3e-a005-4575-9d75-591a9688ffaa",
+      "names": [
+        {
+          "value": "Samuel (14) //"
         }
       ],
       "eventsFacts": [
