@@ -5420,6 +5420,9 @@
         },
         {
           "ref": "I784*e933ca76-1f84-4ea3-8ee4-e9313ea51448"
+        },
+        {
+          "ref": "I785*f9224910-8609-4dc2-bc45-c8495be1dd07"
         }
       ],
       "husbandRefs": [
@@ -21753,6 +21756,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F312*a9f9997b-ef1a-47b9-9e8f-08c083edadd4"
+        }
+      ],
+      "id": "I785*f9224910-8609-4dc2-bc45-c8495be1dd07",
+      "names": [
+        {
+          "value": "Tiur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
