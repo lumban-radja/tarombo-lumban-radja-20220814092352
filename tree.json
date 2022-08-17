@@ -5390,6 +5390,19 @@
         }
       ],
       "id": "F310*25155e16-8feb-4d70-8373-0af56ff95d52"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I779*b6b2cc36-93f2-4ef6-928c-0d37dd392bb4"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I656*b5bb1601-ae12-4d1e-aac3-286361a4a2cf"
+        }
+      ],
+      "id": "F311*8680feab-8f35-4e91-8763-7385d7fa5958"
     }
   ],
   "head": {
@@ -19091,6 +19104,11 @@
           "ref": "F267*69c5dc22-faa1-4d0d-a71e-dfc038b50eb3"
         }
       ],
+      "fams": [
+        {
+          "ref": "F311*8680feab-8f35-4e91-8763-7385d7fa5958"
+        }
+      ],
       "id": "I656*b5bb1601-ae12-4d1e-aac3-286361a4a2cf",
       "names": [
         {
@@ -21585,6 +21603,25 @@
       "names": [
         {
           "value": "Jiun (12) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F311*8680feab-8f35-4e91-8763-7385d7fa5958"
+        }
+      ],
+      "id": "I779*b6b2cc36-93f2-4ef6-928c-0d37dd392bb4",
+      "names": [
+        {
+          "value": "Hotman (13) //"
         }
       ],
       "eventsFacts": [
