@@ -5473,6 +5473,19 @@
         }
       ],
       "id": "F315*0d95cd31-e514-4ee9-afdd-5697d95dbc3e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I790*ea1b06d5-5833-4638-b272-6a52de26fb9f"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I783*bb98fcef-9297-4f48-af3e-8089f47978b9"
+        }
+      ],
+      "id": "F316*1588e3a8-5d22-42b7-9d10-2367a588b844"
     }
   ],
   "head": {
@@ -21784,6 +21797,11 @@
           "ref": "F312*a9f9997b-ef1a-47b9-9e8f-08c083edadd4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F316*1588e3a8-5d22-42b7-9d10-2367a588b844"
+        }
+      ],
       "id": "I783*bb98fcef-9297-4f48-af3e-8089f47978b9",
       "names": [
         {
@@ -21906,6 +21924,25 @@
       "names": [
         {
           "value": "Juan (14) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F316*1588e3a8-5d22-42b7-9d10-2367a588b844"
+        }
+      ],
+      "id": "I790*ea1b06d5-5833-4638-b272-6a52de26fb9f",
+      "names": [
+        {
+          "value": "Suan Jeger (14) //"
         }
       ],
       "eventsFacts": [
