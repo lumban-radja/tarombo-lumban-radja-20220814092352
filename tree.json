@@ -5417,6 +5417,9 @@
         },
         {
           "ref": "I783*bb98fcef-9297-4f48-af3e-8089f47978b9"
+        },
+        {
+          "ref": "I784*e933ca76-1f84-4ea3-8ee4-e9313ea51448"
         }
       ],
       "husbandRefs": [
@@ -21725,6 +21728,25 @@
       "names": [
         {
           "value": "Patar (13) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F312*a9f9997b-ef1a-47b9-9e8f-08c083edadd4"
+        }
+      ],
+      "id": "I784*e933ca76-1f84-4ea3-8ee4-e9313ea51448",
+      "names": [
+        {
+          "value": "Parsaoran (13) //"
         }
       ],
       "eventsFacts": [
