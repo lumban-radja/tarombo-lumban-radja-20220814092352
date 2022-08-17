@@ -5355,6 +5355,9 @@
         },
         {
           "ref": "I769*56a83124-0ec1-486d-8b78-4206633ba4c2"
+        },
+        {
+          "ref": "I770*04a1eff9-66bf-48f2-b8d3-8c01890615d5"
         }
       ],
       "husbandRefs": [
@@ -21387,6 +21390,25 @@
       "names": [
         {
           "value": "Karliman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F310*25155e16-8feb-4d70-8373-0af56ff95d52"
+        }
+      ],
+      "id": "I770*04a1eff9-66bf-48f2-b8d3-8c01890615d5",
+      "names": [
+        {
+          "value": "Nelman //"
         }
       ],
       "eventsFacts": [
