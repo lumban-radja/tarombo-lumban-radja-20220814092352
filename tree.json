@@ -5358,6 +5358,9 @@
         },
         {
           "ref": "I770*04a1eff9-66bf-48f2-b8d3-8c01890615d5"
+        },
+        {
+          "ref": "I771*51f1cbef-04f1-42fd-8e08-5a5181b4341b"
         }
       ],
       "husbandRefs": [
@@ -21409,6 +21412,25 @@
       "names": [
         {
           "value": "Nelman //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F310*25155e16-8feb-4d70-8373-0af56ff95d52"
+        }
+      ],
+      "id": "I771*51f1cbef-04f1-42fd-8e08-5a5181b4341b",
+      "names": [
+        {
+          "value": "Sintong //"
         }
       ],
       "eventsFacts": [
