@@ -5406,6 +5406,19 @@
         }
       ],
       "id": "F311*8680feab-8f35-4e91-8763-7385d7fa5958"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I781*1a90a475-b8d1-4284-b500-057ede4a359c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I657*4322469e-3ded-48f1-a860-19e91d5dd6a4"
+        }
+      ],
+      "id": "F312*a9f9997b-ef1a-47b9-9e8f-08c083edadd4"
     }
   ],
   "head": {
@@ -19131,6 +19144,11 @@
           "ref": "F267*69c5dc22-faa1-4d0d-a71e-dfc038b50eb3"
         }
       ],
+      "fams": [
+        {
+          "ref": "F312*a9f9997b-ef1a-47b9-9e8f-08c083edadd4"
+        }
+      ],
       "id": "I657*4322469e-3ded-48f1-a860-19e91d5dd6a4",
       "names": [
         {
@@ -21650,6 +21668,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F312*a9f9997b-ef1a-47b9-9e8f-08c083edadd4"
+        }
+      ],
+      "id": "I781*1a90a475-b8d1-4284-b500-057ede4a359c",
+      "names": [
+        {
+          "value": "Bukti (13) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
