@@ -5414,6 +5414,9 @@
         },
         {
           "ref": "I782*7d2edf20-c9d6-4518-b635-a7eb3066f2a6"
+        },
+        {
+          "ref": "I783*bb98fcef-9297-4f48-af3e-8089f47978b9"
         }
       ],
       "husbandRefs": [
@@ -21703,6 +21706,25 @@
       "names": [
         {
           "value": "Dapot (13¿ //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F312*a9f9997b-ef1a-47b9-9e8f-08c083edadd4"
+        }
+      ],
+      "id": "I783*bb98fcef-9297-4f48-af3e-8089f47978b9",
+      "names": [
+        {
+          "value": "Patar (13) //"
         }
       ],
       "eventsFacts": [
