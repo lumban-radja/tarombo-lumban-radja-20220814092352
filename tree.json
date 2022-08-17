@@ -5336,6 +5336,9 @@
         },
         {
           "ref": "I766*9db195c1-6ec2-4db1-a1d2-91f81b393600"
+        },
+        {
+          "ref": "I767*cfd65123-b335-46af-8b47-14810094d88a"
         }
       ],
       "husbandRefs": [
@@ -21306,6 +21309,25 @@
       "names": [
         {
           "value": "A. Dame //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F309*cac18e32-1382-4fef-940a-a432eba35ff0"
+        }
+      ],
+      "id": "I767*cfd65123-b335-46af-8b47-14810094d88a",
+      "names": [
+        {
+          "value": "A. Ombri //"
         }
       ],
       "eventsFacts": [
