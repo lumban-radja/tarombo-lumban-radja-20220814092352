@@ -5460,6 +5460,19 @@
         }
       ],
       "id": "F314*70663e7f-e6a5-4691-a6a5-b870bd375574"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I789*94c4260e-4353-4027-afd3-e4a4f08f3dcc"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I782*7d2edf20-c9d6-4518-b635-a7eb3066f2a6"
+        }
+      ],
+      "id": "F315*0d95cd31-e514-4ee9-afdd-5697d95dbc3e"
     }
   ],
   "head": {
@@ -21747,6 +21760,11 @@
           "ref": "F312*a9f9997b-ef1a-47b9-9e8f-08c083edadd4"
         }
       ],
+      "fams": [
+        {
+          "ref": "F315*0d95cd31-e514-4ee9-afdd-5697d95dbc3e"
+        }
+      ],
       "id": "I782*7d2edf20-c9d6-4518-b635-a7eb3066f2a6",
       "names": [
         {
@@ -21865,6 +21883,25 @@
       "names": [
         {
           "value": "Samuel (14) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F315*0d95cd31-e514-4ee9-afdd-5697d95dbc3e"
+        }
+      ],
+      "id": "I789*94c4260e-4353-4027-afd3-e4a4f08f3dcc",
+      "names": [
+        {
+          "value": "Juan (14) //"
         }
       ],
       "eventsFacts": [
