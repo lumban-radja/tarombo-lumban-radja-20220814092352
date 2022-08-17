@@ -4610,6 +4610,9 @@
         },
         {
           "ref": "I777*df1e6b2a-505d-4cbf-a2eb-55a29cde40bd"
+        },
+        {
+          "ref": "I778*4d90058e-d6e2-478d-838f-9323973aaa19"
         }
       ],
       "husbandRefs": [
@@ -21563,6 +21566,25 @@
       "names": [
         {
           "value": "Martua (12) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F267*69c5dc22-faa1-4d0d-a71e-dfc038b50eb3"
+        }
+      ],
+      "id": "I778*4d90058e-d6e2-478d-838f-9323973aaa19",
+      "names": [
+        {
+          "value": "Jiun (12) //"
         }
       ],
       "eventsFacts": [
