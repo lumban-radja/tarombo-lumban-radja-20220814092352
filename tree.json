@@ -4607,6 +4607,9 @@
         },
         {
           "ref": "I776*7307db46-99b3-43e2-a251-6f08dafb6c9c"
+        },
+        {
+          "ref": "I777*df1e6b2a-505d-4cbf-a2eb-55a29cde40bd"
         }
       ],
       "husbandRefs": [
@@ -21541,6 +21544,25 @@
       "names": [
         {
           "value": "Mukdin //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F267*69c5dc22-faa1-4d0d-a71e-dfc038b50eb3"
+        }
+      ],
+      "id": "I777*df1e6b2a-505d-4cbf-a2eb-55a29cde40bd",
+      "names": [
+        {
+          "value": "Martua (12) //"
         }
       ],
       "eventsFacts": [
