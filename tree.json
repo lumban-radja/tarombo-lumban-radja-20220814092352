@@ -21787,13 +21787,17 @@
       "id": "I783*bb98fcef-9297-4f48-af3e-8089f47978b9",
       "names": [
         {
-          "value": "Patar (13) //"
+          "value": "connector"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "tag": "_CONN",
+          "value": "lumban-radja/tarombo-lumban-radja-20220817134531"
         }
       ]
     },
