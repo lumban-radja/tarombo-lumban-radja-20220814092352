@@ -5361,6 +5361,9 @@
         },
         {
           "ref": "I771*51f1cbef-04f1-42fd-8e08-5a5181b4341b"
+        },
+        {
+          "ref": "I772*8e18318d-7678-47ad-8525-7a64bf8cc55f"
         }
       ],
       "husbandRefs": [
@@ -21431,6 +21434,25 @@
       "names": [
         {
           "value": "Sintong //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F310*25155e16-8feb-4d70-8373-0af56ff95d52"
+        }
+      ],
+      "id": "I772*8e18318d-7678-47ad-8525-7a64bf8cc55f",
+      "names": [
+        {
+          "value": "Mangihut //"
         }
       ],
       "eventsFacts": [
