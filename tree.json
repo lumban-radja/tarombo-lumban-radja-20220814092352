@@ -5352,6 +5352,9 @@
       "childRefs": [
         {
           "ref": "I768*f1ea4cd9-d188-4f3d-828c-243bb549a6ec"
+        },
+        {
+          "ref": "I769*56a83124-0ec1-486d-8b78-4206633ba4c2"
         }
       ],
       "husbandRefs": [
@@ -21365,6 +21368,25 @@
       "names": [
         {
           "value": "Marinus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F310*25155e16-8feb-4d70-8373-0af56ff95d52"
+        }
+      ],
+      "id": "I769*56a83124-0ec1-486d-8b78-4206633ba4c2",
+      "names": [
+        {
+          "value": "Karliman //"
         }
       ],
       "eventsFacts": [
