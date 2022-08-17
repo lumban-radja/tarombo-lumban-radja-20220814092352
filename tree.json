@@ -4601,6 +4601,9 @@
         },
         {
           "ref": "I657*4322469e-3ded-48f1-a860-19e91d5dd6a4"
+        },
+        {
+          "ref": "I775*6e165cef-f01c-4130-be72-46b2a9a2a7ad"
         }
       ],
       "husbandRefs": [
@@ -21503,6 +21506,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F267*69c5dc22-faa1-4d0d-a71e-dfc038b50eb3"
+        }
+      ],
+      "id": "I775*6e165cef-f01c-4130-be72-46b2a9a2a7ad",
+      "names": [
+        {
+          "value": "Marben //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
