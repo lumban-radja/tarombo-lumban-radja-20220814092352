@@ -5333,6 +5333,9 @@
       "childRefs": [
         {
           "ref": "I765*9620587d-9698-4e91-ad4b-2f19cd4fd244"
+        },
+        {
+          "ref": "I766*9db195c1-6ec2-4db1-a1d2-91f81b393600"
         }
       ],
       "husbandRefs": [
@@ -21284,6 +21287,25 @@
       "names": [
         {
           "value": "Guntur //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F309*cac18e32-1382-4fef-940a-a432eba35ff0"
+        }
+      ],
+      "id": "I766*9db195c1-6ec2-4db1-a1d2-91f81b393600",
+      "names": [
+        {
+          "value": "A. Dame //"
         }
       ],
       "eventsFacts": [
