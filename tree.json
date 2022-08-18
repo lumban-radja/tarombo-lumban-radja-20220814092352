@@ -19558,13 +19558,17 @@
       "id": "I673*3aaf1942-8faa-4ed6-8ea9-1cd759b42a6b",
       "names": [
         {
-          "value": "Sihar //"
+          "value": "Sihar (11) //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     },
