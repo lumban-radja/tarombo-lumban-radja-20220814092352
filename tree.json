@@ -1226,14 +1226,6 @@
     {
       "childRefs": [
         {
-          "ref": "I176*aab48c8c-e14a-4ea9-9d0f-6c31a5ff24f1"
-        }
-      ],
-      "id": "F73*5e0c9a37-1e07-4dfc-a259-42198ee2ad8f"
-    },
-    {
-      "childRefs": [
-        {
           "ref": "I179*5e368709-9ce9-4fff-b9dc-81c604805dcc"
         },
         {
@@ -9191,11 +9183,7 @@
       ]
     },
     {
-      "famc": [
-        {
-          "ref": "F73*5e0c9a37-1e07-4dfc-a259-42198ee2ad8f"
-        }
-      ],
+      "famc": [],
       "id": "I176*aab48c8c-e14a-4ea9-9d0f-6c31a5ff24f1",
       "names": [
         {
