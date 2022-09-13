@@ -22687,7 +22687,13 @@
       "id": "I820*df1df75c-a19e-40c8-824d-23313949c0dd",
       "names": [
         {
-          "value": " //"
+          "value": "Umpan (13) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
