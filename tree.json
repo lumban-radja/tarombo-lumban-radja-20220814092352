@@ -5585,6 +5585,9 @@
         },
         {
           "ref": "I810*2802d67a-f4c1-4d22-8be7-59bbf54f444f"
+        },
+        {
+          "ref": "I811*bf282232-672e-4ea9-a8e0-f51651e7d9dc"
         }
       ],
       "husbandRefs": [
@@ -22463,6 +22466,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F323*fa26da26-70e1-468c-a685-45d8687ba456"
+        }
+      ],
+      "id": "I811*bf282232-672e-4ea9-a8e0-f51651e7d9dc",
+      "names": [
+        {
+          "value": "Lamhot //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
