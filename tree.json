@@ -5682,6 +5682,9 @@
       "childRefs": [
         {
           "ref": "I830*32ce008b-709a-4dda-9409-5d3f9a3528b1"
+        },
+        {
+          "ref": "I831*0cf281eb-3767-4820-b1de-eb45b30b1143"
         }
       ],
       "husbandRefs": [
@@ -22948,6 +22951,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F327*f8466de8-b789-48bf-86c1-eb2e52efa1c4"
+        }
+      ],
+      "id": "I831*0cf281eb-3767-4820-b1de-eb45b30b1143",
+      "names": [
+        {
+          "value": "Friska //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
