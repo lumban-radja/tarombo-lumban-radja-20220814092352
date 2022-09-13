@@ -5645,6 +5645,9 @@
       "childRefs": [
         {
           "ref": "I821*61739146-3876-44e1-b3ac-03e20122f5d6"
+        },
+        {
+          "ref": "I822*bc382665-4b5f-41b6-8cbc-1a9598b9048f"
         }
       ],
       "husbandRefs": [
@@ -22728,6 +22731,25 @@
       "names": [
         {
           "value": "Dermani //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F326*d328d31e-5b45-4fba-bfe6-63922d037f34"
+        }
+      ],
+      "id": "I822*bc382665-4b5f-41b6-8cbc-1a9598b9048f",
+      "names": [
+        {
+          "value": "Masaria //"
         }
       ],
       "eventsFacts": [
