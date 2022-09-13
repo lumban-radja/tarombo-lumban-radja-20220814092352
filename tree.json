@@ -5479,9 +5479,6 @@
       "husbandRefs": [
         {
           "ref": "I204*1d7d634e-c174-4012-85aa-6e21ebd324f1"
-        },
-        {
-          "ref": "I794*ce44841a-54e3-4c35-bcfa-cf5321a545ef"
         }
       ],
       "id": "F317*b53758a7-439e-4488-9893-a603f8cba3db"
@@ -21992,25 +21989,6 @@
       "names": [
         {
           "value": "Robinsar (13) //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F317*b53758a7-439e-4488-9893-a603f8cba3db"
-        }
-      ],
-      "id": "I794*ce44841a-54e3-4c35-bcfa-cf5321a545ef",
-      "names": [
-        {
-          "value": "Rapolmen (13) //"
         }
       ],
       "eventsFacts": [
