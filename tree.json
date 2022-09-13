@@ -5582,6 +5582,9 @@
         },
         {
           "ref": "I809*9a23f01c-ef5c-4350-9a82-be8528d4052e"
+        },
+        {
+          "ref": "I810*2802d67a-f4c1-4d22-8be7-59bbf54f444f"
         }
       ],
       "husbandRefs": [
@@ -22435,6 +22438,25 @@
       "names": [
         {
           "value": "Pattiana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F323*fa26da26-70e1-468c-a685-45d8687ba456"
+        }
+      ],
+      "id": "I810*2802d67a-f4c1-4d22-8be7-59bbf54f444f",
+      "names": [
+        {
+          "value": "Helen //"
         }
       ],
       "eventsFacts": [
