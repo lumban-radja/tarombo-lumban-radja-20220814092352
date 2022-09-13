@@ -5688,6 +5688,9 @@
         },
         {
           "ref": "I830*32ce008b-709a-4dda-9409-5d3f9a3528b1"
+        },
+        {
+          "ref": "I833*d0ce32bd-b151-453e-ae73-aea544d09b2c"
         }
       ],
       "husbandRefs": [
@@ -22986,6 +22989,25 @@
       "names": [
         {
           "value": "Elfrida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F327*f8466de8-b789-48bf-86c1-eb2e52efa1c4"
+        }
+      ],
+      "id": "I833*d0ce32bd-b151-453e-ae73-aea544d09b2c",
+      "names": [
+        {
+          "value": "Emma //"
         }
       ],
       "eventsFacts": [
