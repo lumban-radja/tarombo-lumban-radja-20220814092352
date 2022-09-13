@@ -5677,11 +5677,7 @@
         }
       ],
       "id": "F326*d328d31e-5b45-4fba-bfe6-63922d037f34",
-      "wifeRefs": [
-        {
-          "ref": "I833*d0ce32bd-b151-453e-ae73-aea544d09b2c"
-        }
-      ]
+      "wifeRefs": []
     }
   ],
   "head": {
@@ -22956,25 +22952,6 @@
       "names": [
         {
           "value": "Elfrida //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F326*d328d31e-5b45-4fba-bfe6-63922d037f34"
-        }
-      ],
-      "id": "I833*d0ce32bd-b151-453e-ae73-aea544d09b2c",
-      "names": [
-        {
-          "value": "Emma //"
         }
       ],
       "eventsFacts": [
