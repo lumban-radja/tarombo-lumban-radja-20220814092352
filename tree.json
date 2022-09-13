@@ -5531,6 +5531,9 @@
       "childRefs": [
         {
           "ref": "I802*338a74e9-d6a7-455d-b004-38eec80bc892"
+        },
+        {
+          "ref": "I803*dd7aa356-a9a3-47da-9cb7-4ddbc1293fd7"
         }
       ],
       "husbandRefs": [
@@ -22233,6 +22236,25 @@
       "names": [
         {
           "value": "Saut (14) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F320*2c98cda2-33bc-48f0-bbb3-54eda29403d4"
+        }
+      ],
+      "id": "I803*dd7aa356-a9a3-47da-9cb7-4ddbc1293fd7",
+      "names": [
+        {
+          "value": "Yogi (14) //"
         }
       ],
       "eventsFacts": [
