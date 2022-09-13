@@ -5579,6 +5579,9 @@
       "childRefs": [
         {
           "ref": "I808*9646cb65-96d6-420a-a91c-ebcbf0440930"
+        },
+        {
+          "ref": "I809*9a23f01c-ef5c-4350-9a82-be8528d4052e"
         }
       ],
       "husbandRefs": [
@@ -22413,6 +22416,25 @@
       "names": [
         {
           "value": "Hotnida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F323*fa26da26-70e1-468c-a685-45d8687ba456"
+        }
+      ],
+      "id": "I809*9a23f01c-ef5c-4350-9a82-be8528d4052e",
+      "names": [
+        {
+          "value": "Paattiana //"
         }
       ],
       "eventsFacts": [
