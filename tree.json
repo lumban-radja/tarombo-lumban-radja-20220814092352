@@ -5651,6 +5651,9 @@
         },
         {
           "ref": "I823*92c5aa0e-9d53-4639-8bf5-c515fa802812"
+        },
+        {
+          "ref": "I824*433b01f9-0390-430c-8d25-a326040e60f3"
         }
       ],
       "husbandRefs": [
@@ -22772,6 +22775,25 @@
       "names": [
         {
           "value": "Kabir (13) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F326*d328d31e-5b45-4fba-bfe6-63922d037f34"
+        }
+      ],
+      "id": "I824*433b01f9-0390-430c-8d25-a326040e60f3",
+      "names": [
+        {
+          "value": "Janter (13) //"
         }
       ],
       "eventsFacts": [
