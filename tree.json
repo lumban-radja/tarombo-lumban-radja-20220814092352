@@ -5509,6 +5509,9 @@
       "childRefs": [
         {
           "ref": "I798*851e77c6-c2f9-4654-aa73-dad531b3b622"
+        },
+        {
+          "ref": "I799*002b0ef4-342c-46c1-a01e-47ef56201976"
         }
       ],
       "husbandRefs": [
@@ -22130,6 +22133,25 @@
       "names": [
         {
           "value": "Maradonna (14)  (✝) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F319*c1026671-f4d2-442d-96b8-eb7d0bb52d1b"
+        }
+      ],
+      "id": "I799*002b0ef4-342c-46c1-a01e-47ef56201976",
+      "names": [
+        {
+          "value": "Brata //"
         }
       ],
       "eventsFacts": [
