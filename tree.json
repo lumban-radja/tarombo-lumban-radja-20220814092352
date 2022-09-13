@@ -5485,6 +5485,19 @@
         }
       ],
       "id": "F317*b53758a7-439e-4488-9893-a603f8cba3db"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I795*7eec2ec9-b3cc-41a3-ac9f-e00b6374cdfd"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I792*b0b97746-4cb7-4f89-b592-f73b3de65d97"
+        }
+      ],
+      "id": "F318*317e0936-ee8c-4898-babe-2068e199b42d"
     }
   ],
   "head": {
@@ -21969,6 +21982,11 @@
           "ref": "F317*b53758a7-439e-4488-9893-a603f8cba3db"
         }
       ],
+      "fams": [
+        {
+          "ref": "F318*317e0936-ee8c-4898-babe-2068e199b42d"
+        }
+      ],
       "id": "I792*b0b97746-4cb7-4f89-b592-f73b3de65d97",
       "names": [
         {
@@ -22011,6 +22029,25 @@
       "names": [
         {
           "value": "Rapolmen (13) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F318*317e0936-ee8c-4898-babe-2068e199b42d"
+        }
+      ],
+      "id": "I795*7eec2ec9-b3cc-41a3-ac9f-e00b6374cdfd",
+      "names": [
+        {
+          "value": "Tony Halomoan //"
         }
       ],
       "eventsFacts": [
