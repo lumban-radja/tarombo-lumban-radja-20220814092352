@@ -5515,6 +5515,9 @@
         },
         {
           "ref": "I800*56b9b269-bbb4-4a99-8b38-e9d50b45dbe0"
+        },
+        {
+          "ref": "I801*8bdd093f-475e-42e6-b3b9-85ab696c50f5"
         }
       ],
       "husbandRefs": [
@@ -22174,6 +22177,25 @@
       "names": [
         {
           "value": "Joel (14) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F319*c1026671-f4d2-442d-96b8-eb7d0bb52d1b"
+        }
+      ],
+      "id": "I801*8bdd093f-475e-42e6-b3b9-85ab696c50f5",
+      "names": [
+        {
+          "value": "Lio (14) //"
         }
       ],
       "eventsFacts": [
