@@ -5563,6 +5563,9 @@
         },
         {
           "ref": "I806*5fb99210-b0ab-4d3e-a23c-47132ace4c6b"
+        },
+        {
+          "ref": "I807*f7f0b25f-4499-4638-b109-f6c7df03f7a3"
         }
       ],
       "husbandRefs": [
@@ -22354,6 +22357,25 @@
       "names": [
         {
           "value": "Riston (13) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F322*c4f75159-4197-439d-a12f-f09c70fd5f8f"
+        }
+      ],
+      "id": "I807*f7f0b25f-4499-4638-b109-f6c7df03f7a3",
+      "names": [
+        {
+          "value": "Adek (13) //"
         }
       ],
       "eventsFacts": [
