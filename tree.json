@@ -5640,6 +5640,19 @@
         }
       ],
       "id": "F325*60546535-62e5-4304-8f33-6a2a467a5607"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I821*61739146-3876-44e1-b3ac-03e20122f5d6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I162*049fda19-4a06-44a5-ab7c-ca46f91c0b41"
+        }
+      ],
+      "id": "F326*d328d31e-5b45-4fba-bfe6-63922d037f34"
     }
   ],
   "head": {
@@ -9135,10 +9148,18 @@
           "ref": "F66*903f714f-48be-4c66-8f8a-6a577c71d459"
         }
       ],
+      "fams": [
+        {
+          "ref": "F326*d328d31e-5b45-4fba-bfe6-63922d037f34"
+        }
+      ],
       "id": "I162*049fda19-4a06-44a5-ab7c-ca46f91c0b41",
       "names": [
         {
           "value": "Bangso (12) //"
+        },
+        {
+          "value": "//"
         }
       ],
       "eventsFacts": [
@@ -22694,6 +22715,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F326*d328d31e-5b45-4fba-bfe6-63922d037f34"
+        }
+      ],
+      "id": "I821*61739146-3876-44e1-b3ac-03e20122f5d6",
+      "names": [
+        {
+          "value": "Dermani //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
