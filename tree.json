@@ -5490,6 +5490,9 @@
       "childRefs": [
         {
           "ref": "I795*7eec2ec9-b3cc-41a3-ac9f-e00b6374cdfd"
+        },
+        {
+          "ref": "I796*d48cf13c-0837-4f35-876f-3546ff98b12f"
         }
       ],
       "husbandRefs": [
@@ -22048,6 +22051,25 @@
       "names": [
         {
           "value": "Tony Halomoan (14) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F318*317e0936-ee8c-4898-babe-2068e199b42d"
+        }
+      ],
+      "id": "I796*d48cf13c-0837-4f35-876f-3546ff98b12f",
+      "names": [
+        {
+          "value": "Togu (14) //"
         }
       ],
       "eventsFacts": [
