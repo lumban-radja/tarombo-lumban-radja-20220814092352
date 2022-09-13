@@ -5677,6 +5677,19 @@
         }
       ],
       "id": "F326*d328d31e-5b45-4fba-bfe6-63922d037f34"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I830*32ce008b-709a-4dda-9409-5d3f9a3528b1"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I827*418aaa29-f995-4201-bb70-d19cbcf0f192"
+        }
+      ],
+      "id": "F327*f8466de8-b789-48bf-86c1-eb2e52efa1c4"
     }
   ],
   "head": {
@@ -22862,6 +22875,11 @@
           "ref": "F326*d328d31e-5b45-4fba-bfe6-63922d037f34"
         }
       ],
+      "fams": [
+        {
+          "ref": "F327*f8466de8-b789-48bf-86c1-eb2e52efa1c4"
+        }
+      ],
       "id": "I827*418aaa29-f995-4201-bb70-d19cbcf0f192",
       "names": [
         {
@@ -22905,6 +22923,25 @@
       "names": [
         {
           "value": "Bilter (13) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F327*f8466de8-b789-48bf-86c1-eb2e52efa1c4"
+        }
+      ],
+      "id": "I830*32ce008b-709a-4dda-9409-5d3f9a3528b1",
+      "names": [
+        {
+          "value": "A. Join (14) //"
         }
       ],
       "eventsFacts": [
