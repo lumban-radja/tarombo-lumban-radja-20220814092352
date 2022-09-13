@@ -22579,6 +22579,12 @@
         {
           "value": "Kristian (13) //"
         }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
       ]
     }
   ]
