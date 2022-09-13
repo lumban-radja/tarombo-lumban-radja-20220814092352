@@ -5555,6 +5555,19 @@
         }
       ],
       "id": "F321*b48d9899-1e4d-4f80-8aee-2f0fdaeff2f5"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I805*04f812ba-5b1a-476f-acc7-978e600379c8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I206*cdf357f6-d14e-405f-9f98-772ff7e78b4b"
+        }
+      ],
+      "id": "F322*c4f75159-4197-439d-a12f-f09c70fd5f8f"
     }
   ],
   "head": {
@@ -9901,6 +9914,11 @@
       "famc": [
         {
           "ref": "F84*b0883890-13c7-4dd7-bec1-78631cf80259"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F322*c4f75159-4197-439d-a12f-f09c70fd5f8f"
         }
       ],
       "id": "I206*cdf357f6-d14e-405f-9f98-772ff7e78b4b",
@@ -22295,6 +22313,25 @@
         },
         {
           "value": "Par Cirebon //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F322*c4f75159-4197-439d-a12f-f09c70fd5f8f"
+        }
+      ],
+      "id": "I805*04f812ba-5b1a-476f-acc7-978e600379c8",
+      "names": [
+        {
+          "value": "Jahotman (13) (✝) //"
         }
       ],
       "eventsFacts": [
