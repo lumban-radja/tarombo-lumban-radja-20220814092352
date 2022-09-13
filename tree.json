@@ -5678,6 +5678,19 @@
       ],
       "id": "F326*d328d31e-5b45-4fba-bfe6-63922d037f34",
       "wifeRefs": []
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I833*58f39495-b5bd-46fd-bdec-5f2afb6c4829"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I827*418aaa29-f995-4201-bb70-d19cbcf0f192"
+        }
+      ],
+      "id": "F327*eda23c15-cf0a-463f-9092-7eab09151425"
     }
   ],
   "head": {
@@ -22863,7 +22876,11 @@
           "ref": "F326*d328d31e-5b45-4fba-bfe6-63922d037f34"
         }
       ],
-      "fams": [],
+      "fams": [
+        {
+          "ref": "F327*eda23c15-cf0a-463f-9092-7eab09151425"
+        }
+      ],
       "id": "I827*418aaa29-f995-4201-bb70-d19cbcf0f192",
       "names": [
         {
@@ -22952,6 +22969,25 @@
       "names": [
         {
           "value": "Elfrida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F327*eda23c15-cf0a-463f-9092-7eab09151425"
+        }
+      ],
+      "id": "I833*58f39495-b5bd-46fd-bdec-5f2afb6c4829",
+      "names": [
+        {
+          "value": "Friska //"
         }
       ],
       "eventsFacts": [
