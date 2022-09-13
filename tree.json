@@ -5663,6 +5663,9 @@
         },
         {
           "ref": "I827*418aaa29-f995-4201-bb70-d19cbcf0f192"
+        },
+        {
+          "ref": "I828*ad68c148-ce58-44f6-946e-10547cd088e2"
         }
       ],
       "husbandRefs": [
@@ -22861,6 +22864,25 @@
         {
           "nick": "Op. Join",
           "value": "Maradu (13) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F326*d328d31e-5b45-4fba-bfe6-63922d037f34"
+        }
+      ],
+      "id": "I828*ad68c148-ce58-44f6-946e-10547cd088e2",
+      "names": [
+        {
+          "value": "Herni (13) //"
         }
       ],
       "eventsFacts": [
