@@ -5599,6 +5599,19 @@
         }
       ],
       "id": "F323*fa26da26-70e1-468c-a685-45d8687ba456"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I814*f0f53950-355e-47a1-8921-1bf5df2bf728"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I811*bf282232-672e-4ea9-a8e0-f51651e7d9dc"
+        }
+      ],
+      "id": "F324*b8dc306c-20cc-4baa-b87a-bab94c71a670"
     }
   ],
   "head": {
@@ -22478,6 +22491,11 @@
           "ref": "F323*fa26da26-70e1-468c-a685-45d8687ba456"
         }
       ],
+      "fams": [
+        {
+          "ref": "F324*b8dc306c-20cc-4baa-b87a-bab94c71a670"
+        }
+      ],
       "id": "I811*bf282232-672e-4ea9-a8e0-f51651e7d9dc",
       "names": [
         {
@@ -22516,6 +22534,25 @@
       "names": [
         {
           "value": "Nuel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F324*b8dc306c-20cc-4baa-b87a-bab94c71a670"
+        }
+      ],
+      "id": "I814*f0f53950-355e-47a1-8921-1bf5df2bf728",
+      "names": [
+        {
+          "value": "Nuel (14) //"
         }
       ],
       "eventsFacts": [
