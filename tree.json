@@ -22529,21 +22529,6 @@
       ]
     },
     {
-      "famc": [],
-      "id": "I813*01ade905-c125-416b-9597-4ff1aa406f43",
-      "names": [
-        {
-          "value": "Nuel //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
       "famc": [
         {
           "ref": "F324*b8dc306c-20cc-4baa-b87a-bab94c71a670"
