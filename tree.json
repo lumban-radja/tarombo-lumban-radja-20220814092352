@@ -5704,6 +5704,19 @@
     },
     {
       "id": "F329*c571469d-088e-4630-9618-ab0a3060a5ef"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I839*06e10850-60bf-4729-bd5e-6ffd9b414f25"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I838*f33ebd56-8ed5-4fd8-8bc9-2b89e4ebdf40"
+        }
+      ],
+      "id": "F330*b3599795-a05a-46cc-8998-3038c84adad3"
     }
   ],
   "head": {
@@ -23055,10 +23068,34 @@
           "ref": "F130*345fa779-56fc-45e9-a441-41c22e1cbe63"
         }
       ],
+      "fams": [
+        {
+          "ref": "F330*b3599795-a05a-46cc-8998-3038c84adad3"
+        }
+      ],
       "id": "I838*f33ebd56-8ed5-4fd8-8bc9-2b89e4ebdf40",
       "names": [
         {
           "value": "Sahat (13) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F330*b3599795-a05a-46cc-8998-3038c84adad3"
+        }
+      ],
+      "id": "I839*06e10850-60bf-4729-bd5e-6ffd9b414f25",
+      "names": [
+        {
+          "value": "Tumbur //"
         }
       ],
       "eventsFacts": [
