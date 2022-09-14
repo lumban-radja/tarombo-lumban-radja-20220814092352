@@ -2490,6 +2490,9 @@
       "childRefs": [
         {
           "ref": "I383*cc5a07b7-cf86-4044-a518-e13fde157f42"
+        },
+        {
+          "ref": "I840*77625fa3-7ddf-46aa-8d1d-80df8946acaf"
         }
       ],
       "husbandRefs": [
@@ -23096,6 +23099,25 @@
       "names": [
         {
           "value": "Tumbur (14) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F141*bf815be8-6c52-4018-b1c0-fc150e07742c"
+        }
+      ],
+      "id": "I840*77625fa3-7ddf-46aa-8d1d-80df8946acaf",
+      "names": [
+        {
+          "value": "Firman (13) //"
         }
       ],
       "eventsFacts": [
