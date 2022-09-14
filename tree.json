@@ -2545,6 +2545,9 @@
         },
         {
           "ref": "I385*26a7d672-99dc-43fe-8d51-ab6892b141c0"
+        },
+        {
+          "ref": "I853*851b4282-108d-4340-be8d-1eef2aed32cf"
         }
       ],
       "husbandRefs": [
@@ -23382,6 +23385,25 @@
       "names": [
         {
           "value": "Nada Riana //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F142*018b033f-0ae8-40af-b27d-5b450b62e6d4"
+        }
+      ],
+      "id": "I853*851b4282-108d-4340-be8d-1eef2aed32cf",
+      "names": [
+        {
+          "value": "Imelda //"
         }
       ],
       "eventsFacts": [
