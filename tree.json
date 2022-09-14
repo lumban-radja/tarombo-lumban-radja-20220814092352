@@ -2511,6 +2511,9 @@
         },
         {
           "ref": "I846*275e86ce-1fc5-435d-ab67-04ca33913c70"
+        },
+        {
+          "ref": "I847*44aca09f-a711-46e9-a34b-c72a8402a3d3"
         }
       ],
       "husbandRefs": [
@@ -23250,6 +23253,25 @@
       "names": [
         {
           "value": "Dorra Gora //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F141*bf815be8-6c52-4018-b1c0-fc150e07742c"
+        }
+      ],
+      "id": "I847*44aca09f-a711-46e9-a34b-c72a8402a3d3",
+      "names": [
+        {
+          "value": "Boyna Tiurna //"
         }
       ],
       "eventsFacts": [
