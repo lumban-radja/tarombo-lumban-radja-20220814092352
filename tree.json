@@ -2502,6 +2502,9 @@
         },
         {
           "ref": "I843*a70c07a6-f1aa-4420-831f-95d00b917ec4"
+        },
+        {
+          "ref": "I844*f3828f6e-8122-4780-bdc2-9b833786a7a6"
         }
       ],
       "husbandRefs": [
@@ -23184,6 +23187,25 @@
       "names": [
         {
           "value": "Annominda //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F141*bf815be8-6c52-4018-b1c0-fc150e07742c"
+        }
+      ],
+      "id": "I844*f3828f6e-8122-4780-bdc2-9b833786a7a6",
+      "names": [
+        {
+          "value": "Sarpina //"
         }
       ],
       "eventsFacts": [
