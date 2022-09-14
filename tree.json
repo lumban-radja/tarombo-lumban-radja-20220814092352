@@ -2284,9 +2284,6 @@
       "childRefs": [
         {
           "ref": "I351*f0763561-561c-4f2a-bdd7-765d843a9828"
-        },
-        {
-          "ref": "I791*ed7c2c06-c788-4370-ab6d-ec73aa5efe95"
         }
       ],
       "husbandRefs": [
@@ -22192,25 +22189,6 @@
       "names": [
         {
           "value": "Suan Jeger (14) //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F130*345fa779-56fc-45e9-a441-41c22e1cbe63"
-        }
-      ],
-      "id": "I791*ed7c2c06-c788-4370-ab6d-ec73aa5efe95",
-      "names": [
-        {
-          "value": "Tumbur (14) //"
         }
       ],
       "eventsFacts": [
