@@ -2246,15 +2246,6 @@
       "id": "F126*be0c854a-f741-43ad-9692-a4ec98944df9"
     },
     {
-      "childRefs": [],
-      "id": "F127*ae859cbe-6bb1-48c4-85c6-d45e1d3a6fe3",
-      "wifeRefs": [
-        {
-          "ref": "I338*13ba71c8-c733-4eea-8aa2-077ec135d5fe"
-        }
-      ]
-    },
-    {
       "childRefs": [
         {
           "ref": "I340*0574df49-e08c-46c6-87bb-5d4b894175e8"
@@ -12781,11 +12772,7 @@
           "ref": "F121*92c8750b-efdd-4c2e-ba6a-fd24fd1f8dbd"
         }
       ],
-      "fams": [
-        {
-          "ref": "F127*ae859cbe-6bb1-48c4-85c6-d45e1d3a6fe3"
-        }
-      ],
+      "fams": [],
       "id": "I338*13ba71c8-c733-4eea-8aa2-077ec135d5fe",
       "names": [
         {
