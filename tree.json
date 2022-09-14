@@ -2854,6 +2854,9 @@
         },
         {
           "ref": "I424*60dc40c0-003b-4d14-aee6-033efa846129"
+        },
+        {
+          "ref": "I857*0513da13-ab66-4baa-aa15-7f0d341dc428"
         }
       ],
       "husbandRefs": [
@@ -23470,6 +23473,25 @@
       "names": [
         {
           "value": "Rukia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F160*9740f8a4-5e95-4342-a358-06b4c6f12072"
+        }
+      ],
+      "id": "I857*0513da13-ab66-4baa-aa15-7f0d341dc428",
+      "names": [
+        {
+          "value": "Narli //"
         }
       ],
       "eventsFacts": [
