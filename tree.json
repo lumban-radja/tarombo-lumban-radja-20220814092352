@@ -2493,6 +2493,9 @@
         },
         {
           "ref": "I840*77625fa3-7ddf-46aa-8d1d-80df8946acaf"
+        },
+        {
+          "ref": "I841*153696cd-eec6-4c95-90f5-c13feed426aa"
         }
       ],
       "husbandRefs": [
@@ -23118,6 +23121,25 @@
       "names": [
         {
           "value": "Firman (13) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F141*bf815be8-6c52-4018-b1c0-fc150e07742c"
+        }
+      ],
+      "id": "I841*153696cd-eec6-4c95-90f5-c13feed426aa",
+      "names": [
+        {
+          "value": "Difon Maruli (13) //"
         }
       ],
       "eventsFacts": [
