@@ -2533,6 +2533,9 @@
         },
         {
           "ref": "I385*26a7d672-99dc-43fe-8d51-ab6892b141c0"
+        },
+        {
+          "ref": "I849*65faa38f-83e0-472d-b6b7-b830b86321ab"
         }
       ],
       "husbandRefs": [
@@ -23294,6 +23297,25 @@
       "names": [
         {
           "value": "Rotua Boydar //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F142*018b033f-0ae8-40af-b27d-5b450b62e6d4"
+        }
+      ],
+      "id": "I849*65faa38f-83e0-472d-b6b7-b830b86321ab",
+      "names": [
+        {
+          "value": "Derita //"
         }
       ],
       "eventsFacts": [
