@@ -2281,17 +2281,10 @@
       "id": "F129*2ce4f01d-e271-414f-b759-bade10551e1a"
     },
     {
-      "childRefs": [
-        {
-          "ref": "I351*f0763561-561c-4f2a-bdd7-765d843a9828"
-        }
-      ],
+      "childRefs": [],
       "husbandRefs": [
         {
           "ref": "I350*ca43f7e4-e5dc-4fcc-8970-e1d552f67e22"
-        },
-        {
-          "ref": "I351*f0763561-561c-4f2a-bdd7-765d843a9828"
         }
       ],
       "id": "F130*345fa779-56fc-45e9-a441-41c22e1cbe63"
@@ -12997,30 +12990,6 @@
       "names": [
         {
           "value": "Petrus (12) //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F130*345fa779-56fc-45e9-a441-41c22e1cbe63"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F130*345fa779-56fc-45e9-a441-41c22e1cbe63"
-        }
-      ],
-      "id": "I351*f0763561-561c-4f2a-bdd7-765d843a9828",
-      "names": [
-        {
-          "value": "Sahat (13) //"
         }
       ],
       "eventsFacts": [
