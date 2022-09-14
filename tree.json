@@ -2505,6 +2505,9 @@
         },
         {
           "ref": "I844*f3828f6e-8122-4780-bdc2-9b833786a7a6"
+        },
+        {
+          "ref": "I845*36bdf276-acec-4140-906a-57bbaeef9dee"
         }
       ],
       "husbandRefs": [
@@ -23212,6 +23215,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F141*bf815be8-6c52-4018-b1c0-fc150e07742c"
+        }
+      ],
+      "id": "I845*36bdf276-acec-4140-906a-57bbaeef9dee",
+      "names": [
+        {
+          "value": "Rijal Yohito (13) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
