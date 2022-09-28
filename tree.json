@@ -2927,6 +2927,9 @@
         },
         {
           "ref": "I431*e888f793-3687-4100-815a-5a0f8f649292"
+        },
+        {
+          "ref": "I864*9ea29f5f-d66c-4c3a-8bc6-5f4c2f07f98b"
         }
       ],
       "husbandRefs": [
@@ -23657,6 +23660,25 @@
       "names": [
         {
           "value": "Soida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F164*39a38d0d-a343-4068-bab8-d8d20f7ff170"
+        }
+      ],
+      "id": "I864*9ea29f5f-d66c-4c3a-8bc6-5f4c2f07f98b",
+      "names": [
+        {
+          "value": "Delima //"
         }
       ],
       "eventsFacts": [
