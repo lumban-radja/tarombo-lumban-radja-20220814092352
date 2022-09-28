@@ -5787,6 +5787,19 @@
         }
       ],
       "id": "F331*f3dcef9b-786b-4a26-95b6-3469e0b576ea"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I860*9dddfcf8-6306-4009-8168-8224305bc40a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I347*a9068410-f331-45c5-a05b-2076cbca863c"
+        }
+      ],
+      "id": "F332*9b7ea1c5-a34b-4394-89dc-34f0244a9a5d"
     }
   ],
   "head": {
@@ -13004,6 +13017,11 @@
       "famc": [
         {
           "ref": "F113*fbe08fe9-2863-46ba-b5cd-5d55acf32b0f"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F332*9b7ea1c5-a34b-4394-89dc-34f0244a9a5d"
         }
       ],
       "id": "I347*a9068410-f331-45c5-a05b-2076cbca863c",
@@ -23551,6 +23569,25 @@
       "names": [
         {
           "value": "Sandro (14) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F332*9b7ea1c5-a34b-4394-89dc-34f0244a9a5d"
+        }
+      ],
+      "id": "I860*9dddfcf8-6306-4009-8168-8224305bc40a",
+      "names": [
+        {
+          "value": "Janel (14) //"
         }
       ],
       "eventsFacts": [
