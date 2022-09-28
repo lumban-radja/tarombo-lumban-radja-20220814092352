@@ -5776,6 +5776,9 @@
       "childRefs": [
         {
           "ref": "I858*d94481a4-8344-48bd-9304-e281dbcf126c"
+        },
+        {
+          "ref": "I859*5dde3fb7-0462-4ee1-a912-6431be148d52"
         }
       ],
       "husbandRefs": [
@@ -23529,6 +23532,25 @@
       "names": [
         {
           "value": "Tumpal (13) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F331*f3dcef9b-786b-4a26-95b6-3469e0b576ea"
+        }
+      ],
+      "id": "I859*5dde3fb7-0462-4ee1-a912-6431be148d52",
+      "names": [
+        {
+          "value": "Sandro (13) //"
         }
       ],
       "eventsFacts": [
