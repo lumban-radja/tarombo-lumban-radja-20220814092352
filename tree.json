@@ -2548,6 +2548,9 @@
         },
         {
           "ref": "I853*851b4282-108d-4340-be8d-1eef2aed32cf"
+        },
+        {
+          "ref": "I862*7f33dcde-c27f-48b3-b3f4-f38a316d2828"
         }
       ],
       "husbandRefs": [
@@ -23613,6 +23616,25 @@
         },
         {
           "value": "Nai Evi / Nai Cory //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F142*018b033f-0ae8-40af-b27d-5b450b62e6d4"
+        }
+      ],
+      "id": "I862*7f33dcde-c27f-48b3-b3f4-f38a316d2828",
+      "names": [
+        {
+          "value": "Rotua //"
         }
       ],
       "eventsFacts": [
