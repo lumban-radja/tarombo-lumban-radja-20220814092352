@@ -5792,6 +5792,9 @@
       "childRefs": [
         {
           "ref": "I860*9dddfcf8-6306-4009-8168-8224305bc40a"
+        },
+        {
+          "ref": "I861*916e85ee-b966-4828-83ed-56d9a2527abe"
         }
       ],
       "husbandRefs": [
@@ -23594,6 +23597,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F332*9b7ea1c5-a34b-4394-89dc-34f0244a9a5d"
+        }
+      ],
+      "id": "I861*916e85ee-b966-4828-83ed-56d9a2527abe",
+      "names": [
+        {
+          "value": "Farida //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
