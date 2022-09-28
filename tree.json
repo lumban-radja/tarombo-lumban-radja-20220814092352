@@ -2924,6 +2924,9 @@
       "childRefs": [
         {
           "ref": "I431*e888f793-3687-4100-815a-5a0f8f649292"
+        },
+        {
+          "ref": "I863*974fb965-386a-49d3-9b50-a0454a88feee"
         }
       ],
       "husbandRefs": [
@@ -23635,6 +23638,25 @@
       "names": [
         {
           "value": "Rotua //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F164*39a38d0d-a343-4068-bab8-d8d20f7ff170"
+        }
+      ],
+      "id": "I863*974fb965-386a-49d3-9b50-a0454a88feee",
+      "names": [
+        {
+          "value": "Soida //"
         }
       ],
       "eventsFacts": [
