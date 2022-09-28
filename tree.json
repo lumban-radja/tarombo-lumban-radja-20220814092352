@@ -2930,6 +2930,9 @@
         },
         {
           "ref": "I431*e888f793-3687-4100-815a-5a0f8f649292"
+        },
+        {
+          "ref": "I865*350fcb55-9b5e-460b-9a7d-f8b7d534b8f1"
         }
       ],
       "husbandRefs": [
@@ -23679,6 +23682,25 @@
       "names": [
         {
           "value": "Delima //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F164*39a38d0d-a343-4068-bab8-d8d20f7ff170"
+        }
+      ],
+      "id": "I865*350fcb55-9b5e-460b-9a7d-f8b7d534b8f1",
+      "names": [
+        {
+          "value": "Rosinta //"
         }
       ],
       "eventsFacts": [
